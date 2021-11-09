@@ -1,1 +1,1 @@
-# intelligent-minds-and-machines
+# Intelligent Minds and Machines
