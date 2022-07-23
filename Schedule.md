@@ -26,5 +26,7 @@ nav_order: 2
     <tr><td>Oct. 4</td><td>Not so humble beginnings</td><td>Saffran, J. R., Aslin, R. N., & Newport, E. L. (1996). Statistical learning by 8-month-old infants. <i>Science, 274</i>(5294), 1926-1928.<br><br>Ruba, A.L., Pollak, S.D. and Saffran, J.R. (2022), Acquiring Complex Communicative Systems: Statistical Learning of Language and Emotion. <i>Topics in Cognitive Science, 14</i>: 432-450.</td></tr>
     <tr><td>Oct. 6</td><td>Bayesian babies</td><td><span style="color:#FF8000">Project topic due!</span><br><br>Gopnik, A. (2010). How babies think. <i>Scientific American, 303</i>(1), 76-81.<br><br>Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. <i>Science, 331</i>(6022), 1279-1285.</td></tr>
     <tr><td>Oct. 11</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3>FALL BREAK!! <img src="maple.png" width="3%" height = "3%"></td></tr>
+    <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Walk and talk like a human <img src="robot.png" width="3%" height="3%"></td></tr>
+
    
     
