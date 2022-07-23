@@ -24,8 +24,8 @@ Your final project is worth 20% of your total grade. The project will be evaluat
 <table>
         <tr><th>Component</th><th>Points</th><th>Due date</th>
     <tbody>
-    <tr><td> Literature review/reading list </td><td>5 points</td><td></td>
-    <tr><td> Paper outline </td><td>5 points</td><td></td>
-    <tr><td> Paprer first draft </td><td>3 points</td><td></td>
-    <tr><td> Final paper </td><td>7 points</td><td></td>
-    
+    <tr><td> Literature review/reading list </td><td>5 points</td><td> Oct. 20</td>
+    <tr><td> Paper outline </td><td>5 points</td><td>Nov. 1</td>
+    <tr><td> Paprer first draft </td><td>3 points</td><td>Nov. 22</td>
+    <tr><td> Final paper </td><td>7 points</td><td>Dec. 8</td>
+
