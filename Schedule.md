@@ -11,8 +11,8 @@ nav_order: 2
     <tbody>
     <tr><td>Sep. 1</td><td>Meet & greet</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>The Big Questions</td></tr>
-    <tr><td>Sep. 6</td><td>Mind & brain</td><td>Searle (1984), Ch.1<br>Podcast: Promise of AI </td></tr>
-    <tr><td>Sep. 8</td><td>Can computers think?</td><td>Searle (1984), Ch. 2<br>Turing (1950)</td></tr>
+    <tr><td>Sep. 6</td><td>Mind & brain</td><td>Searle, J. R. (1984). <i>Minds, brains and science</i>. Harvard University Press. <strong>Chapter 1 (The mind-body problem)<strong><br><br>Deepmind Podcast: Promise of AI </td></tr>
+    <tr><td>Sep. 8</td><td>Can computers think?</td><td><i>Minds, brains and science</i>. Harvard University Press. <strong>Chapter 1 (The mind-body problem)<strong><br><br>Turing (1950)</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Where it all began...</td></tr>
     <tr><td>Sep. 13</td><td>Let's get neural</td><td>Rogers & McClelland (2014)<br>Pages 1-23</td></tr>
     <tr><td>Sep. 15</td><td>The neural imprint</td><td>Rogers & McClelland (2014)<br>Pages 23-44</td></tr>
