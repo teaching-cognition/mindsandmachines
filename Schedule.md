@@ -28,6 +28,7 @@ nav_order: 2
     <tr><td>Oct. 11</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3>FALL BREAK!! <img src="maple.png" width="3%" height = "3%"></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Walk and talk like a human <img src="robot.png" width="3%" height="3%"></td></tr>
     <tr><td>Oct. 13</td><td>I like to move it move it</td><td>Smith, L. B. (2005). Cognition as a dynamic system: Principles from embodiment.<i> Developmental Review, 25</i>(3-4), 278-298. <br><br>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a></td></tr>
+    <tr><td>Oct. 18</td><td>Talk AI to me</td><td>Many Minds Podcast: <a href="https://manyminds.libsyn.com/what-is-language-for">What is language for?</a><br> <br>Lake, B. M., & Murphy, G. L. (2021). Word meaning in minds and machines. <i>Psychological review.</i></td></tr>
 
 
    
