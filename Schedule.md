@@ -27,7 +27,7 @@ nav_order: 2
     <tr><td>Oct. 4</td><td>Not so humble beginnings</td><td>Saffran et al. (1996)<br>Ruba et al. (2022)</td><td>Assignment 3 due</td></tr>
     <tr><td>Oct. 6</td><td>Bayesian babies</td><td>Gopnik (2010)<br>Gopnik & Tenenbaum (2007)</td><td></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Talk and walk like a human</td></tr>
-    <tr><td>Oct. 11</td><td style="text-align: center; vertical-align: middle; colspan = 3>fall break!! <img src="maple.png" width="10%" height = "10%"></td></tr>
+    <tr><td>Oct. 11</td><td style="text-align: center; vertical-align: middle;background-color:#B5E8F0" colspan = 3>fall break!! <img src="maple.png" width="5%" height = "5%"></td></tr>
     <tr><td>Oct. 13</td><td>I like to move it move it</td><td>Podcast: Let's get physical </td><td></td></tr>
     <tr><td>Oct. 18</td><td>Talk AI to me</td><td>Podcast: What is language for? <br>Lake & Murphy (2021)</td><td></td></tr>
     <tr><td>Oct. 20</td><td>Too good to be true?<td>Podcast: Speaking of intelligence<br>Bender et al. (2021)</td><td></td></tr>
@@ -45,7 +45,7 @@ nav_order: 2
     <tr><td>Nov. 17</td><td>What can we learn?</td><td>Zador(2019)<br>Crosby (2020)</td><td></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Student-chosen topics</td></tr>
     <tr><td>Nov. 22</td><td>Topic 1</td><td></td><td></td></tr>
-    <tr><td>Nov. 24</td><td style="text-align: center; vertical-align: middle; colspan = 3>thanksgiving break!! <img src="pumpkin.png" width="10%" height = "10%"></td></tr>
+    <tr><td>Nov. 24</td><td style="text-align: center; vertical-align: middle;background-color:#B5E8F0" colspan = 3>thanksgiving break!! <img src="pumpkin.png" width="5%" height = "5%"></td></tr>
     <tr><td>Nov. 29</td><td>Topic 2</td><td></td><td></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Core ingredients</td></tr>
     <tr><td>Dec. 1</td><td>So what is intelligence?</td><td>Lake et al., (2017)</td><td>Assignment 9 due</td></tr>
