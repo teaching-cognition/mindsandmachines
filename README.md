@@ -8,19 +8,20 @@ permalink: /
 
 # Intelligent Minds and Machines: PSYC 3043
 
-Welcome to Intelligent Minds and Machines! This website will host the course content and syllabi for PSYC 3043.
+Welcome! This website will host the course content and syllabi for PSYC 3043.
 
 
 ## Basic Course Information
 **Course number**: PSYC 3043 <br>
 **Semester**: Fall 2022<br>
+**When**: Tuesdays & Thursdays, 2:50 PM - 4:15 PM <br>
+**Where**: Kanbar Hall 101<br>
+**Website**: You are here!<br>
 **Pre-requisites**: Three of:
 1. Either PSYC 2040 or PSYC 2060 (same as NEUR 2060)
 2. PSYC 2510
 3. PSYC 2520<br>
-**When**: Tuesdays & Thursdays, 2:50 PM - 4:15 PM <br>
-**Where**: Kanbar Hall 101<br>
-**Website**: You are here!<br>
+
 
 
 ## Who is your instructor?
