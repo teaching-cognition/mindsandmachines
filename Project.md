@@ -21,9 +21,13 @@ For **either** option, you will need to:
 
 Your final project is worth 20% of your total grade. The project will be evaluated in the following stages:
 
-1. Literature review/reading list on your chosen topic (5 points)
-2. Paper outline (5 points)
-3. First draft of your paper (3 points)
-4. Your final paper (7 points)
+<table>
+        <tr><th>Component</th><th>Points</th><th>Due date</th>
+    <tbody>
+    <tr><td> Literature review/reading list </td><td>5 points</td><td></td>
+    <tr><td> Paper outline </td><td>5 points</td><td></td>
+    <tr><td> Paprer first draft </td><td>3 points</td><td></td>
+    <tr><td> Final paper </td><td>7 points</td><td></td>
 
-Rubrics for each component will be posted on Canvas. Deadlines for each component are posted on the <a href="https://teaching-cognition.github.io/mindsandmachines/Schedule.html">schedule page</a>. 
+Rubrics for each component will be posted on Canvas. 
+
