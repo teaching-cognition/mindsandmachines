@@ -28,6 +28,4 @@ Your final project is worth 20% of your total grade. The project will be evaluat
     <tr><td> Paper outline </td><td>5 points</td><td></td>
     <tr><td> Paprer first draft </td><td>3 points</td><td></td>
     <tr><td> Final paper </td><td>7 points</td><td></td>
-
-Rubrics for each component will be posted on Canvas. 
-
+    
