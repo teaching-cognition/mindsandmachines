@@ -30,12 +30,12 @@ Grades will be determined based on the following rubric, which is based on empha
         </tr>
     </thead>
     <tbody>
-        <tr><td>Perusall grade</td><td><span style="color:#508AB0">Evaluate</span>+<span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
-        <tr><td>Before class reflections</td><td><span style="color:#508AB0">Evaluate</span>+<span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
-        <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span>+<span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
-        <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span>+<span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
-        <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span>+<span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
-        <tr><td>Project: literature review</td><td><span style="color:#E7AC10">Synthesize</span>+<span style="color:#508AB0">Evaluate</span></td><td>5</td></tr>
+        <tr><td>Perusall grade</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
+        <tr><td>Before class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
+        <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
+        <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
+        <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
+        <tr><td>Project: literature review</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#508AB0">Evaluate</span></td><td>5</td></tr>
         <tr><td>Project: Outline</td><td>All</td><td>ungraded</td></tr>
         <tr><td>Project: Draft 1</td><td>All</td><td>5</td></tr>
         <tr><td>Project: Final Draft</td><td>All</td><td>10</td></tr>
