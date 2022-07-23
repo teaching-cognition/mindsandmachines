@@ -16,4 +16,6 @@ nav_order: 2
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Where it all began <img src="nn.png" width="3%" height="3%"></td></tr>
     <tr><td>Sep. 13</td><td>Let's get neural</td><td>Rogers, T. T., & McClelland, J. L. (2014). Parallel distributed processing at 25: Further explorations in the microstructure of cognition. <i>Cognitive Science, 38</i>(6), 1024-1077. <strong>Pages 1-23</strong></td></tr>
     <tr><td>Sep. 15</td><td>How far can neurons go?</td><td>Rogers, T. T., & McClelland, J. L. (2014). Parallel distributed processing at 25: Further explorations in the microstructure of cognition. <i>Cognitive Science, 38</i>(6), 1024-1077. <strong>Pages 23-44</strong></td></tr>
+    <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>From then to now <img src="deepnn.png" width="3%" height="3%"></td></tr>
+    <tr><td>Sep. 20</td><td>Deep network diving</td><td>LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>(7553), 436-444.<br><br> Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. <i>Proceedings of the National Academy of Sciences, 117</i>(48), 30033-30038.</td></tr>
     
