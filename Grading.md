@@ -17,7 +17,7 @@ All scores will be rounded to the nearest whole number.
 
 Grades will be determined based on the following rubric, which is based on emphasizing our three learning goals: 
 1. Analyze and <span style="color:#508AB0">evaluate</span> current approaches to understanding and building intelligence
-2.  <span style="color:#E7AC10">Synthesize</span> literature on a focused aspect of intelligence and produce a original critique
+2.  <span style="color:#E7AC10">Synthesize</span> literature on a focused aspect of intelligence and produce an original critique
 3. Develop an <span style="color:#1CB447">appreciation</span> for cultural and ethical issues surrounding the study of intelligence
 
 
