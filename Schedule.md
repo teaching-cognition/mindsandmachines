@@ -19,4 +19,6 @@ nav_order: 2
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>From then to now <img src="deepnn.png" width="3%" height="3%"></td></tr>
     <tr><td>Sep. 20</td><td>Deep network diving</td><td>LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>(7553), 436-444.<br><br> Sejnowski, T. J. (2020). The unreasonable effectiveness of deep learning in artificial intelligence. <i>Proceedings of the National Academy of Sciences, 117</i>(48), 30033-30038.</td></tr>
     <tr><td>Sep. 22</td><td>What are you Bayesing it on?</td><td>Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. <i>Science, 350</i>(6266), 1332-1338.</td></tr>
+    <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Gaming the system <img src="game.png" width="3%" height="3%"></td></tr>
+    <tr><td>Sep. 27</td><td>Games for the win</td><td>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=4wle0KmSvRM" target="_blank">Life is like a game</a> <br><br>Yannakakis, G. N., & Togelius, J. (2018). <i>Artificial intelligence and games</i> (Vol. 2, pp. 2475-1502). New York: Springer. <strong>Pages 15-23</strong> </td></tr>
     
