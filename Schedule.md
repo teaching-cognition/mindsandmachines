@@ -8,6 +8,7 @@ nav_order: 2
             <th>Date</th>
             <th>Topic</th>
             <th>Assigned materials</th>
+            <th>Activities</th>
     <tbody>
     <tr><td>Sep. 1</td><td>Meet & greet</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>The Big Questions <img src="detective.png" width="3%" height="3%"></td></tr>
