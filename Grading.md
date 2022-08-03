@@ -56,9 +56,9 @@ Making good-quality annotations requires you to critically engage with the readi
 
 ## Reflections
 
-Reflections are meant to serve two purposes. First, <strong>before-class</strong> reflections are meant to guide your engagement with the material, encourage you to think about big-picture issues, and connect ideas spanning across different assigned materials. These reflections, together with the class annotations, also help the discussant assimilate the thoughts and ideas of the class into core themes that they will highlight during class. Before-class reflections are due by 9 AM on the day of class, and can be viewed by all classmates.
+Reflections are meant to serve two purposes. First, <strong>before-class</strong> reflections are meant to guide your engagement with the material, encourage you to think about big-picture issues, and connect ideas spanning across different assigned materials. These reflections, together with the class annotations, also help the discussant(s) assimilate the thoughts and ideas of the class into core themes that they will highlight during class. Before-class reflections are due by 9 AM on the day of class, and can be viewed by all classmates.
 
-Second, <strong>after-class</strong> reflections are meant to motivate you to think thoroughly about the discussion in class and reflect on your major takeaways from the class. After class reflections are due by 9 AM on the day after class.
+Second, <strong>after-class</strong> reflections are meant to motivate you to think thoroughly about the discussion in class and reflect on your major takeaways from the class. After-class reflections are due by 9 AM on the day after class.
 
 In addition to reflecting on the class discussion, you will also have the option to submit a meme at the end of each week, which will be entered into a "memer of the semester" contest, where you and your classmates will score the submitted memes each week. The student who has the highest score at the end of the semester will get 1 additional point added to their final grade!
 
@@ -68,10 +68,10 @@ You will lead two discussions in this course: a solo discussion as well as a joi
 
 1. Present a short (3-5 minute) summary of the assigned material (preferably in slide format), focusing on central themes, questions, and methods
 2. Synthesize the themes reflected in your classmates annotations and before-class reflections into 1-3 coherent themes and guide discussion on these themes during class by posing questions, moderating responses, and encouraging your classmates to think critically about the topic. 
-3. Prepare an in-class activity for the group (you can choose when you want the class to engage in the activity, before or after), and encourage class to reflect on the activity and how it connects to the assigned materials for this week. You are encouraged to get in touch with me a week BEFORE you are leading discussion to brainstorm potential in-class activities.
+3. Prepare an in-class activity for the group and encourage class to reflect on the activity and how it connects to the assigned materials for this week. You can choose when you want the class to engage in the activity before or after the discussion portion. You are encouraged to get in touch with me a week BEFORE you are leading discussion to brainstorm potential in-class activities.
 4. Summarize the in-class discussion.
 
-You will be responsible for making sure the summaries, discussion, and in-class activities are all completed during class time. For <strong>joint</strong> discussions, you are welcome to assign roles (e.g., one person summarizes, other person moderates discussion, etc.) for different components, or plan execute different components together as a team. 
+You will be responsible for making sure the summaries, discussion, and in-class activities are all completed during class time. For <strong>joint</strong> discussions, you are welcome to assign roles (e.g., one person summarizes, other person moderates discussion, etc.) for different components, or plan and execute different components together as a team. 
 
 ## Final project
 
