@@ -6,12 +6,20 @@ nav_order: 3
 
 # Course Policies
 
+## Academic honesty
+
+We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism will be subject to grade reductions and disciplinary action. Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
+
+## Electronic devices
+
+Given that the format of the class is largely discussion-based, you are encouraged to actively participate in class discussions and not use electronic devices during the <i>discussion</i> portion of the class. Students leading discussion are permitted to use electronic devices for guiding and moderating discussion, and the use of electronic devices for in-class activities is also fine. If you would like to take notes, you are encouraged to minimize distractions by taking hand-written notes, although exceptions will be granted for students with accommodations. 
+
 ## How many classes can you miss? 
 As many as you need and as few as you possibly can. It not only benefits your learning, but benefits all of our learning to be present together in the same space (virtual or in person). Class time is designed to take advantage of our presence together.
 
 Of course, emergencies (illness or family emergencies) can and do occur. In these cases, I would greatly appreciate that you email me about missing class.
 
-If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website.
+If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully, you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website. Please note that if you miss a class, you also miss the chance to submit an after-class reflection for that class.
 
 ## Late Work Policy
 
