@@ -30,15 +30,17 @@ Grades will be determined based on the following rubric, which is based on empha
         </tr>
     </thead>
     <tbody>
-        <tr><td>Perusall grade</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
+        <tr><td>Hypothes.is grade</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
         <tr><td>Before class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
-        <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
+        <tr><td>During class participation</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
+        <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
         <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
         <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
         <tr><td>Project: literature review</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#508AB0">Evaluate</span></td><td>5</td></tr>
-        <tr><td>Project: Outline</td><td>All</td><td>5</td></tr>
-        <tr><td>Project: Draft 1</td><td>All</td><td>3</td></tr>
-        <tr><td>Project: Final Draft</td><td>All</td><td>7</td></tr>
+        <tr><td>Project: outline</td><td>All</td><td>5</td></tr>
+        <tr><td>Project: first draft</td><td>All</td><td>5</td></tr>
+        <tr><td>Project: final paper</td><td>All</td><td>5</td></tr>
+        <tr><td>Project: 3MT</td><td>All</td><td>5</td></tr>
         <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">100</td></tr>
     </tbody>
 </table>
