@@ -4,7 +4,7 @@ title: Schedule
 nav_order: 2
 ---
 
-This page will host the schedule of topics for the course. Please note that this is an evolving document and any changes to the syllabus will be announced in class and via Canvas announcements and reflected on this page. 
+This page will host the schedule of topics for the course. Please note that this is an evolving document and any changes to the syllabus will be announced in class and via Canvas announcements and reflected on this page. <br><br>
 
 <table>
         <tr>
@@ -41,7 +41,7 @@ This page will host the schedule of topics for the course. Please note that this
     <tr><td>Nov. 3</td><td>Moral AI</td><td>Jiang, L., Hwang, J. D., Bhagavatula, C., Bras, R. L., Forbes, M., Borchardt, J., ... & Choi, Y. (2021). Can machines learn morality? The Delphi experiment. arXiv preprint arXiv:2110.07574.<br><br>Talat, Z., Blix, H., Valvoda, J., Ganesh, M. I., Cotterell, R., & Williams, A. (2022, July). On the Machine Learning of Ethical Judgments from Natural Language. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 769-779).</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 10: Whose AI, and for whom? <img src="earth.png" width="3%" height="3%"></td></tr>
     <tr><td>Nov. 8</td><td>Let's talk about the data</td><td><span style="color:#FF8000">Paper outline due!</span><br><br>Deep Mind Podcast: <a href="https://www.youtube.com/watch?v=hmKZyJYgV6Y&list=PLqYmG7hTraZBsPYQ7JN0E1QtQOc3H98Ui&index=9" target="_blank">Fair for all</a><br><br>Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2021). Data and its (dis) contents: A survey of dataset development and use in machine learning research. <i>Patterns, 2</i>(11), 100336.<br><br>Raji,D.(2020).How our data encodes systematic racism. <i>MIT Technology Review.</i></td></tr>
-    <tr><td>Nov. 10</td><td>AI at what cost?</td><td>Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. <i>Communications of the ACM, 63</i>(12), 54-63.<br><br>Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. </i>arXiv preprint arXiv:1906.02243.</i> (pp. 4603-4612).</td></tr>
+    <tr><td>Nov. 10</td><td>AI at what cost?</td><td>Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. <i>Communications of the ACM, 63</i>(12), 54-63.<br><br>Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. <i>arXiv preprint arXiv:1906.02243.</i> (pp. 4603-4612).</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 11: Our furry friends <img src="animal.png" width="3%" height="3%"></td></tr>
     <tr><td>Nov. 15</td><td>Does my pet get me?</td><td>Many Minds Podcast: <a href="https://manyminds.libsyn.com/of-chimps-and-children" target="_blank">Of chimps and children</a><br><br>Krupenye, C., & Call, J. (2019). Theory of mind in animals: Current and future directions. <i>Wiley Interdisciplinary Reviews: Cognitive Science, 10</i>(6), e1503.</td></tr>
     <tr><td>Nov. 17</td><td>What can we learn?</td><td>Crosby, M. (2020). Building thinking machines by solving animal cognition tasks. <i>Minds and Machines, 30</i>(4), 589-615.<br><br>Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. <i>Nature Communications, 10</i>(1), 1-7.</td></tr>

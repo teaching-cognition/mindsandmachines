@@ -17,10 +17,9 @@ If you miss more than 2 classes and I haven’t heard from you, I will be in tou
 
 Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
 
-1. **All** assignments have a 24-hour grace period by default. You can turn in an assignment a day late with no explanation need. 
-2. Each student *also* has **3 "flex" days** that they can use at their discretion throughout the semester. You can use all 3 days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments. Remember, these flex days are in addition to your 24-hour grace period for all assignments.
-3. If you need to turn in work late in addition beyond the 24-hour window and do not have any flex days left, I will consider extensions based on legitimate reasons, which include verified illnesses, family emergencies, and lots of other work due at the same time. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
-4. Work that is handed in late beyond the 24-hour grace period and flex days or without an **approved** extension will automatically be graded on 50% of the original points.
+1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester. You can use all 3 days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments.
+2. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which include verified illnesses, family emergencies, and lots of other work due at the same time. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
+3. Work that is handed in late beyond the 24-hour grace period and flex days or without an **approved** extension will automatically be graded on 50% of the original points.
 
 ## Inclusion
 I will do my very best to ensure that students from all backgrounds and perspectives receive equitable access and opportunity in this course, that students' learning needs be addressed both in and out of class, and that the diversity students bring to this class is viewed as a resource, strength and benefit. I hope to employ materials and engage in activities and dialogue that are respectful of different aspects of your identity. 

@@ -19,13 +19,16 @@ For **either** option, you will need to:
 
 ## How will my work be evaluated?
 
-Your final project is worth 20% of your total grade. The project will be evaluated in the following stages:
+Your final project is worth 30% of your total grade. The project will be evaluated in the following stages:
 
 <table>
         <tr><th>Component</th><th>Points</th><th>Due date</th>
     <tbody>
-    <tr><td> Literature review/reading list </td><td>5 points</td><td> Oct. 20</td>
-    <tr><td> Paper outline </td><td>5 points</td><td>Nov. 1</td>
-    <tr><td> Paprer first draft </td><td>3 points</td><td>Nov. 22</td>
-    <tr><td> Final paper </td><td>7 points</td><td>Dec. 8</td>
+    <tr><td> Project topic due </td><td></td><td> Sep. 29</td>
+    <tr><td> Literature review/reading list </td><td>5 points</td><td> Oct. 13</td>
+    <tr><td> Paper outline </td><td>5 points</td><td>Nov. 8</td>
+    <tr><td> Paper first draft </td><td>5 points</td><td>Nov. 22</td>
+    <tr><td> Paper second draft (optional) </td><td>2 points</td><td>Dec. 6</td>
+    <tr><td> 3 MT </td><td>5 points</td><td>Dec. 8</td>
+    <tr><td> Final paper </td><td>5 points</td><td>Dec. 14</td>
 

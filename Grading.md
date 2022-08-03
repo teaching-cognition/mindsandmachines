@@ -44,3 +44,24 @@ Grades will be determined based on the following rubric, which is based on empha
         <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">100</td></tr>
     </tbody>
 </table>
+
+## extra credit opportunities
+
+There are several ways to earn extra credit throughout the course: you can earn a maximum of <br>6 additional points</br> through the following opportunities:
+
+<table>
+    <thead>
+        <tr>
+            <th>Component</th>
+            <th>Opportunity</th>
+            <th>Weight (%)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Participation </td><td>Win Memer of the Semester</td><td>1</td></tr>
+        <tr><td>Discussion</td><td>Read and discuss additional paper/podcast/article</td><td>2</td></tr>
+        <tr><td>Discussion</td><td>Come up with own in-class activity</td><td>1</td></tr>
+        <tr><td>Paper</td><td>Submit an additional draft</td><td>2</td></tr>
+        <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">6</td></tr>
+    </tbody>
+</table>
