@@ -12,7 +12,7 @@ This page will host the schedule of topics for the course. Please note that this
             <th>Topic</th>
             <th>Assigned materials</th>
     <tbody>
-    <tr><td>Sep. 1</td><td>Meet & greet</td></tr>
+    <tr><td>Sep. 1</td><td>Meet & greet</td><td>Pre-class survey [Canvas]</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 2: The big questions <img src="detective.png" width="3%" height="3%"></td></tr>
     <tr><td>Sep. 6</td><td>Mind & brain</td><td>Searle, J. R. (1984). <i>Minds, brains and science</i>. Harvard University Press. <strong>Chapter 1 (The mind-body problem)</strong><br><br>Baria, A. T., & Cross, K. (2021). The brain is a computer is a brain: Neuroscience's internal debate and the social significance of the Computational Metaphor. arXiv preprint arXiv:2107.14042.<br><br>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=ExrXs7PCQpU" target="_blank">AI and neuroscience: The virtuous circle</a></td></tr>
     <tr><td>Sep. 8</td><td>Can computers think?</td><td>Searle, J. R. (1984). <i>Minds, brains and science</i>. Harvard University Press. <strong>Chapter 2 (Can computers think?)</strong><br><br>Turing, A. M. (1950). Computing Machine and Intelligence. <i>MIND</i>, LIX, 433-460.</td></tr>

@@ -45,9 +45,9 @@ Grades will be determined based on the following rubric, which is based on empha
     </tbody>
 </table>
 
-## extra credit opportunities
+## Extra credit opportunities
 
-There are several ways to earn extra credit throughout the course: you can earn a maximum of <br>6 additional points</br> through the following opportunities:
+There are several ways to earn extra credit throughout the course: you can earn a maximum of <strong>6 additional points</strong> through the following opportunities:
 
 <table>
     <thead>
