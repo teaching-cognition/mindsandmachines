@@ -39,7 +39,7 @@ Grades will be determined based on the following rubric, which is based on empha
         <tr><td>Project: literature review</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#508AB0">Evaluate</span></td><td>5</td></tr>
         <tr><td>Project: outline</td><td>All</td><td>5</td></tr>
         <tr><td>Project: first draft</td><td>All</td><td>5</td></tr>
-        <tr><td>Project: final paper</td><td>All</td><td>5</td></tr>
+        <tr><td>Project: final paper</td><td>All</td><td>10</td></tr>
         <tr><td>Project: 3MT</td><td>All</td><td>5</td></tr>
         <tr><td>Extra credit</td><td>All</td><td>6</td></tr>
         <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">106</td></tr>
