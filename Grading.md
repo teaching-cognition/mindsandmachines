@@ -8,10 +8,10 @@ nav_order: 4
 
 The grading scale for this class is as follows:
 
-- 96-100: A+
-- 90-95: A
-- 86-89: B+
-- 80-85: B, and so on.
+- 96-100: A
+- 90-95: A-
+- 86-89: B
+- 80-85: B-, and so on.
 
 All scores will be rounded to the nearest whole number. 
 
