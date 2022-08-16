@@ -8,7 +8,7 @@ nav_order: 5
 
 Your final project will involve abstracting themes from the course material we cover each week and producing an original critique on one or a few aspects of intelligence. You have two options in terms of choosing the final project:
 
-1. You can choose to review and sythesize the literature on one particular aspect of intelligence discussed in class (e.g., language, vision, babies, animals, etc.), and propose a novel study to follow-up on current work in the area.
+1. You can choose to review and synthesize the literature on one particular aspect of intelligence discussed in class (e.g., language, vision, babies, animals, etc.), and propose a novel study to follow-up on current work in the area.
 2. You can pick an animal/species, an example of AI from pop culture or the real world and demonstrate how and why it is close to or far from artificial general intelligence using a framework we have discussed in class. 
 
 For **either** option, you will need to:
