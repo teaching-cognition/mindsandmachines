@@ -47,9 +47,9 @@ Why are humans considered the most “intelligent” species on the planet? Wher
 
 The last few years have seen impressive highs and lows in the study and pursuit of intelligence. Through this course, I hope to communicate some of the excitement and skepticism that researchers in the field feel today. At the end of this course, you will be able to: <br>
 
-1. Analyze and <span style="color:#508AB0">evaluate</span> current approaches to understanding and building intelligence
-2.  <span style="color:#E7AC10">Synthesize</span> literature on a focused aspect of intelligence and produce an original critique
-3. Develop an <span style="color:#1CB447">appreciation</span> for cultural and ethical issues surrounding the study of intelligence
+1. Analyze and <span style="color:#508AB0">evaluate</span> current approaches to understanding and building intelligence [Department Goal #4]
+2.  <span style="color:#E7AC10">Synthesize</span> literature on a focused aspect of intelligence and produce an original critique [Department Goal #7]
+3. Develop an <span style="color:#1CB447">appreciation</span> for cultural and ethical issues surrounding the study of intelligence [Department Goal #3]
 
 ## How will we communicate? 
 The majority of our communication will occur via Canvas. Assignments will be posted and submitted on Canvas and questions about the course or the content can also be posted on Canvas. I and other classmates will respond to questions on Canvas so everyone has access to the questions and responses. Email will also be used regularly as part of this course. As much as possible, I will respond within 24 hours to emails with the exception that anything sent after 5pm on Fridays will not be addressed until Monday morning at the earliest. To meet with me individually, contact me via email.

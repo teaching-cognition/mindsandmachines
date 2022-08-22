@@ -17,7 +17,7 @@ Given that the format of the class is largely discussion-based, you are encourag
 ## How many classes can you miss? 
 As many as you need and as few as you possibly can. It not only benefits your learning, but benefits all of our learning to be present together in the same space (virtual or in person). Class time is designed to take advantage of our presence together.
 
-Of course, emergencies (illness or family emergencies) can and do occur. **Note**: If you are sick or experiencing symptoms of COVID-19 or monkeypox, **please stay home**. However, I would greatly appreciate that you email me if you will be missing class.
+Of course, emergencies (illness or family emergencies) can and do occur. **Note**: If you are sick with COVID-19 or monkeypox, **please stay home**. However, I would greatly appreciate that you email me if you will be missing class.
 
 If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully, you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website. Please note that if you miss a class, you also miss the chance to submit an after-class reflection for that class.
 
