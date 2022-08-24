@@ -4,14 +4,14 @@ title: Schedule
 nav_order: 2
 ---
 
-This page will host the schedule of topics for the course. Please note that this is an <strong>evolving</strong> document and any changes to the syllabus will be announced in class and via Canvas announcements and will subsequently reflect on this page. Remember to <strong>refresh this page </strong> to make sure you are viewing the most recent version of the schedule. <br><br>
+This page will host the schedule of topics for the course. Please note that this is an <strong>evolving</strong> document and any changes to the syllabus will be announced in class and via Canvas announcements and will subsequently reflect on this page. Remember to <strong>refresh this page </strong> to make sure you are viewing the most recent version of the schedule.
 
 ## General overview
 
 This is a seminar course, where each week, you will read and respond to assigned readings and material via before-class reflections, participate in class discussions, and then submit a short after-class reflection. You will also lead discussion twice (one solo, on joint) in the semester and the order of discussants will be decided on the first day of class. You will also work on an individual [project](https://teaching-cognition.github.io/mindsandmachines/Project.html), and present your ideas to the class on the last day via a three-minute thesis format, as well as write a 10-page paper, which will be due at the end of the semester. 
 
 ## Schedule of Topics
-
+<br>
 <table>
         <tr>
             <th>Date</th>
