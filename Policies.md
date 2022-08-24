@@ -25,8 +25,8 @@ If you miss more than 2 classes and I haven’t heard from you, I will be in tou
 
 Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
 
-1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester. You can use all 3 days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments.
-2. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which include verified illnesses, family emergencies, and lots of other work due at the same time. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
+1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester, **except for before-class annotations and reflections, which are always due 6 PM the day before class**. You can use all 3 days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments.
+2. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which include ONLY verified illnesses, family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
 3. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 50% of the original points.
 
 ## Inclusion

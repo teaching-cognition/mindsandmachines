@@ -54,7 +54,7 @@ Grades will be determined based on the following rubric, which is based on empha
 
 ## Hypothes.is annotations
 
-For the research articles that you will read during the week, you are required to submit annotations and respond to your classmates' annotations by 9 AM on the day of class, using the Hypothes.is tool within Canvas. Annotations are visible to all classmates.
+For the research articles that you will read during the week, you are required to submit annotations and respond to your classmates' annotations **by 6 PM the day before class**, using the Hypothes.is tool within Canvas. Annotations are visible to all classmates.
 
 Your annotations should reflect your engagement with the material and you are encouraged to ask thoughtful questions as you go. You are required to post at least two annotations per reading, but feel free to post as many as you wish. The goal of these annotations is to stimulate the in-class discussions, so remember to be thoughtful and respectful of your classmates' ideas and opinions as you make and view annotations.
 
@@ -62,9 +62,9 @@ Making good-quality annotations requires you to critically engage with the readi
 
 ## Reflections
 
-Reflections are meant to serve two purposes. First, <strong>before-class</strong> reflections are meant to guide your engagement with the material, encourage you to think about big-picture issues, and connect ideas spanning across different assigned materials. These reflections, together with the class annotations, also help the discussant(s) assimilate the thoughts and ideas of the class into core themes that they will highlight during class. Before-class reflections are due by 9 AM on the day of class, and can be viewed by all classmates.
+Reflections are meant to serve two purposes. First, <strong>before-class</strong> reflections are meant to guide your engagement with the material, encourage you to think about big-picture issues, and connect ideas spanning across different assigned materials. These reflections, together with the class annotations, also help the discussant(s) assimilate the thoughts and ideas of the class into core themes that they will highlight during class. **Before-class reflections are due by 6 PM the day before class**, and can be viewed by all classmates.
 
-Second, <strong>after-class</strong> reflections are meant to motivate you to think thoroughly about the discussion in class and reflect on your major takeaways from the class. In addition, you will also provide feedback that will be anonymously passed to the discussant in your reflections. After-class reflections are due by 9 AM on the day after class.
+Second, <strong>after-class</strong> reflections are meant to motivate you to think thoroughly about the discussion in class and reflect on your major takeaways from the class. In addition, you will also provide feedback that will be anonymously passed to the discussant in your reflections. **After-class reflections are due by 9 AM on the day after class**.
 
 In addition to reflecting on the class discussion, you will also have the option to submit a meme at the end of each week, which will be entered into a "memer of the semester" contest, where you and your classmates will score the submitted memes each week. The student who has the highest score at the end of the semester will get 1 additional point added to their final grade!
 
