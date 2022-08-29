@@ -45,5 +45,9 @@ As a student, you may experience a range of issues that can cause barriers to le
 
 The [Baldwin Center for Learning and Teaching](https://www.bowdoin.edu/baldwin-center) offers peer-to-peer resources including mentors, Q-Tutors, and Writing Assistants. If you or your family are multilingual, you may also take advantage of Lisa Flanagan to work on writing and speaking assignments and projects. Tina Chong is available as an Academic Coach to work with you on goal setting, managing time, study habits and other strategies to support academic success. You are encouraged to [make an appointment](https://www.bowdoin.edu/baldwin-center/make-an-appointment/ and learn more about how the Center can support your learning.
 
+## Other resources
+
+If you are on a budget or would benefit from financial assistance of any kind at any point in the semester, I encourage you to contact your Dean and reach out to the [Supplemental and Emergency Funding website](https://www.bowdoin.edu/dean-of-students/resources/emergency-funding/index.html). The Office of the Dean of Students has grant and loan funds available to remove financial barriers so that students can more fully access the Bowdoin experience or to assist students with unexpected financial needs.
+
 ## Mandated Reporter
 As a faculty member, I am considered a **Responsible Employee**, per the Student Sexual Misconduct and Gender Based Violence Policy. As a Responsible Employee I am required to report disclosures of sexual misconduct, dating violence, stalking, and/or sexual and gender-based harassment to Bowdoin's Title IX Coordinator, Kate O'Grady. My reporting does NOT mean that any actions will be taken beyond Kate reaching out to you and trying to schedule a time to talk to see what assistance you might need to be successful as a student here at Bowdoin. For more information please check out [Bowdoin's Title IX page](http://www.bowdoin.edu/title-ix).
