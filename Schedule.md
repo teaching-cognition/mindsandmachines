@@ -17,10 +17,11 @@ This is a seminar course, where each week, you will read and respond to assigned
             <th>Date</th>
             <th>Topic</th>
             <th>Assigned materials</th>
+            <th>Pages/Minutes</th>
     <tbody>
     <tr><td>Sep. 1</td><td>Meet & greet</td><td>Pre-class survey [Canvas]</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 2: The big questions <img src="detective.png" width="3%" height="3%"></td></tr>
-    <tr><td>Sep. 6</td><td>Mind & brain</td><td>Searle, J. R. (1984). <i>Minds, brains and science</i>. Harvard University Press. <strong>Chapter 1 (The mind-body problem)</strong><br><br>Baria, A. T., & Cross, K. (2021). The brain is a computer is a brain: Neuroscience's internal debate and the social significance of the Computational Metaphor. arXiv preprint arXiv:2107.14042.<br><br>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=ExrXs7PCQpU" target="_blank">AI and neuroscience: The virtuous circle</a></td></tr>
+    <tr><td>Sep. 6</td><td>Mind & brain</td><td>Searle, J. R. (1984). <i>Minds, brains and science</i>. Harvard University Press. <strong>Chapter 1 (The mind-body problem)</strong><br><br>Baria, A. T., & Cross, K. (2021). The brain is a computer is a brain: Neuroscience's internal debate and the social significance of the Computational Metaphor. arXiv preprint arXiv:2107.14042.<br><br>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=ExrXs7PCQpU" target="_blank">AI and neuroscience: The virtuous circle</a></td><td>15 <br><br>14<br><br>34 mins</tr>
     <tr><td>Sep. 8</td><td>Can computers think?</td><td>Searle, J. R. (1984). <i>Minds, brains and science</i>. Harvard University Press. <strong>Chapter 2 (Can computers think?)</strong><br><br>Turing, A. M. (1950). Computing Machine and Intelligence. <i>MIND</i>, LIX, 433-460.</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 3: Tools of the trade <img src="nn.png" width="3%" height="3%"></td></tr>
     <tr><td>Sep. 13</td><td>Where it all began!</td><td>Rogers, T. T., & McClelland, J. L. (2014). Parallel distributed processing at 25: Further explorations in the microstructure of cognition. <i>Cognitive Science, 38</i>(6), 1024-1077. <strong>Pages 1-23</strong></td></tr>

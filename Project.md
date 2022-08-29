@@ -24,7 +24,7 @@ Your final project is worth 30% of your total grade. The project will be evaluat
 <table>
         <tr><th>Component</th><th>Points</th><th>Due date</th>
     <tbody>
-    <tr><td> Project topic due </td><td></td><td> Sep. 29</td>
+    <tr><td> Project topic due </td><td></td><td> Sep. 22</td>
     <tr><td> Literature review/reading list </td><td>5 points</td><td> Oct. 13</td>
     <tr><td> Paper outline </td><td>5 points</td><td>Nov. 8</td>
     <tr><td> Paper first draft </td><td>5 points</td><td>Nov. 22</td>
