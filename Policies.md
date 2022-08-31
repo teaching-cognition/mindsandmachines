@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Course policies
-nav_order: 3
+nav_order: 4
 ---
 
 # Course Policies
@@ -14,7 +14,7 @@ We, as a class, will abide by the Bowdoin College Academic Honor Code. While you
 
 Given that the format of the class is largely discussion-based, you are encouraged to actively participate in class discussions and not use electronic devices during the <i>discussion</i> portion of the class. Students leading discussion are permitted to use electronic devices for guiding and moderating discussion, and the use of electronic devices for in-class activities is also fine. If you would like to take notes, you are encouraged to minimize distractions by taking hand-written notes, although exceptions will be granted for students with accommodations. 
 
-## How many classes can you miss? 
+## Attendance: How many classes can you miss? 
 As many as you need and as few as you possibly can. It not only benefits your learning, but benefits all of our learning to be present together in the same space (virtual or in person). Class time is designed to take advantage of our presence together.
 
 Of course, emergencies (illness or family emergencies) can and do occur. **Note**: If you are sick with COVID-19 or monkeypox, **please stay home**. However, I would greatly appreciate that you email me if you will be missing class.

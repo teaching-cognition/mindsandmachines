@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grading
-nav_order: 4
+nav_order: 3
 ---
 
 # Grading
@@ -77,7 +77,10 @@ You will lead two discussions in this course: a solo discussion as well as a joi
 3. Prepare an in-class activity for the group and encourage class to reflect on the activity and how it connects to the assigned materials for this week. You can choose when you want the class to engage in the activity before or after the discussion portion. You are encouraged to get in touch with me **a week BEFORE you are leading discussion** to brainstorm potential in-class activities as well as discuss your general plan for the discussion.
 4. Summarize the in-class discussion.
 
-You will be responsible for making sure the summaries, discussion, and in-class activities are all completed during class time. For <strong>joint</strong> discussions, you are welcome to assign roles (e.g., one person summarizes, other person moderates discussion, etc.) for different components, or plan and execute different components together as a team. 
+You will be responsible for making sure the summaries, discussion, and in-class activities are all completed during class time. For <strong>joint</strong> discussions, you are welcome to assign roles (e.g., one person summarizes, other person moderates discussion, etc.) for different components, or plan and execute different components together as a team. Some resources for leading effective discussions:
+1. [How to Lead a Class Discussion](https://www.carleton.edu/history/resources/history-study-guides/leaddiscussion/) by Rachel Seidman
+2. [Leading an Effective Discussion](https://poorvucenter.yale.edu/sites/default/files/files/discussion_leading.pdf), Samuel Schaffer and Alison Green
+3. [Active Learning Techniques](https://learninginnovation.duke.edu/resources/art-and-science-of-teaching/active-learning-techniques-classroom/), Duke University
 
 ## Final project
 
