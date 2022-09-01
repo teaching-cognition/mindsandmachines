@@ -40,8 +40,9 @@ Grades will be determined based on the following rubric, which is based on empha
         <tr><td>Before class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
         <tr><td>During class participation</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
         <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
-        <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
-        <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
+        <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>15</td></tr>
+        <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>15</td></tr>
+        <tr><td>CogSci Mind Challenge</td><td><span style="color:#E7AC10">Synthesize</span></td><td>10</td></tr>
         <tr><td>Project: literature review</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#508AB0">Evaluate</span></td><td>5</td></tr>
         <tr><td>Project: outline</td><td>All</td><td>5</td></tr>
         <tr><td>Project: first draft</td><td>All</td><td>5</td></tr>
@@ -82,13 +83,17 @@ You will be responsible for making sure the summaries, discussion, and in-class 
 2. [Leading an Effective Discussion](https://poorvucenter.yale.edu/sites/default/files/files/discussion_leading.pdf), Samuel Schaffer and Alison Green
 3. [Active Learning Techniques](https://learninginnovation.duke.edu/resources/art-and-science-of-teaching/active-learning-techniques-classroom/), Duke University
 
+## CogSci Mind Challenge
+
+This will be a group assignment, where you will submit an entry (a 5-minute video) to the <a href="https://cognitivesciencesociety.org/cogsci-mind-challenge/" target ="_blank">CogSci Mind Challenge</a> on the topic "Can Machines Think?". Two drafts of the video will be due prior to the actual submission (which is due November 1) - these due dates are reflected on the course schedule. Please refer to the website for details on the challenge.
+
 ## Final project
 
 Click [here](https://teaching-cognition.github.io/mindsandmachines/Project.html) for details about the final project.
 
 ## Extra credit opportunities
 
-There are several ways to earn extra credit throughout the course: you can earn a maximum of <strong>8 additional points</strong> through the following opportunities:
+There are several ways to earn extra credit throughout the course: you can earn a maximum of <strong>6 additional points</strong> through the following opportunities:
 
 <table>
     <thead>
@@ -103,7 +108,6 @@ There are several ways to earn extra credit throughout the course: you can earn 
         <tr><td>Discussion</td><td>Read and discuss additional paper/podcast/article</td><td>2</td></tr>
         <tr><td>Discussion</td><td>Come up with own in-class activity</td><td>1</td></tr>
         <tr><td>Paper</td><td>Submit an additional draft</td><td>2</td></tr>
-        <tr><td>Video</td><td>Submit an entry to <a href="https://cognitivesciencesociety.org/cogsci-mind-challenge/" target ="_blank">CogSci Mind Challenge</a></td><td>2</td></tr>
-        <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">8</td></tr>
+        <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">6</td></tr>
     </tbody>
 </table>
