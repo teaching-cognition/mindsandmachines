@@ -47,7 +47,7 @@ Grades will be determined based on the following rubric, which is based on empha
         <tr><td>Project: first draft</td><td>All</td><td>5</td></tr>
         <tr><td>Project: final paper</td><td>All</td><td>10</td></tr>
         <tr><td>Project: 3MT</td><td>All</td><td>5</td></tr>
-        <tr><td>Extra credit</td><td>All</td><td>6</td></tr>
+        <tr><td>Extra credit</td><td>All</td><td>8</td></tr>
         <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">106</td></tr>
     </tbody>
 </table>
@@ -88,7 +88,7 @@ Click [here](https://teaching-cognition.github.io/mindsandmachines/Project.html)
 
 ## Extra credit opportunities
 
-There are several ways to earn extra credit throughout the course: you can earn a maximum of <strong>6 additional points</strong> through the following opportunities:
+There are several ways to earn extra credit throughout the course: you can earn a maximum of <strong>8 additional points</strong> through the following opportunities:
 
 <table>
     <thead>
@@ -103,6 +103,7 @@ There are several ways to earn extra credit throughout the course: you can earn 
         <tr><td>Discussion</td><td>Read and discuss additional paper/podcast/article</td><td>2</td></tr>
         <tr><td>Discussion</td><td>Come up with own in-class activity</td><td>1</td></tr>
         <tr><td>Paper</td><td>Submit an additional draft</td><td>2</td></tr>
-        <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">6</td></tr>
+        <tr><td>Video</td><td>Submit an entry to <a href="https://cognitivesciencesociety.org/cogsci-mind-challenge/" target ="_blank">CogSci Mind Challenge</a></td><td>2</td></tr>
+        <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">8</td></tr>
     </tbody>
 </table>
