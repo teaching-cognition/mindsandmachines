@@ -40,8 +40,8 @@ Grades will be determined based on the following rubric, which is based on empha
         <tr><td>Before class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
         <tr><td>During class participation</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
         <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
-        <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>15</td></tr>
-        <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>15</td></tr>
+        <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
+        <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>10 + 10</td></tr>
         <tr><td>CogSci Mind Challenge</td><td><span style="color:#E7AC10">Synthesize</span></td><td>10</td></tr>
         <tr><td>Project: literature review</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#508AB0">Evaluate</span></td><td>5</td></tr>
         <tr><td>Project: outline</td><td>All</td><td>5</td></tr>
@@ -71,7 +71,7 @@ In addition to reflecting on the class discussion, you will also have the option
 
 ## Leading discussions
 
-You will lead two discussions in this course: a solo discussion as well as a joint discussion with another classmate. For both discussions, you are required to:
+You will lead three discussions in this course: a solo discussion as well as two joint discussions with 1-2 other classmates. For all discussions, you are required to:
 
 1. Present a short (3-5 minute) summary of the assigned material (preferably in slide format), focusing on central themes, questions, and methods
 2. Synthesize the themes reflected in your classmates annotations and before-class reflections into 1-3 coherent themes and guide discussion on these themes during class by posing questions, moderating responses, and encouraging your classmates to think critically about the topic. 
