@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Course policies
-nav_order: 5
+nav_order: 6
 ---
 
 # Course Policies
