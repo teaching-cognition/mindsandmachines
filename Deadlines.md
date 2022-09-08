@@ -26,6 +26,7 @@ This page displays the deadlines for different components of the course. Note th
         <tr><td>November 8</td><td>Paper outline due</td></tr>
         <tr><td>November 22</td><td>Paper Draft 1 due</td></tr>
         <tr><td>December 1</td><td>Paper Draft 2 due (optional)</td></tr>
+        <tr><td>December 8</td><td>Three minute thesis!</td></tr>
         <tr><td>December 15</td><td>Final Paper due</td></tr>
         
     </tbody>
