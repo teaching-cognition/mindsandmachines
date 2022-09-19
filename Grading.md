@@ -41,7 +41,7 @@ Grades will be determined based on the following rubric, which is based on empha
         <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
         <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
         <tr><td>Joint discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>10 + 10</td></tr>
-        <tr><td>CogSci Mind Challenge</td><td><span style="color:#E7AC10">Synthesize</span></td><td>2 (outline) + <br>4 (2 drafts) +<br> 2 (final)</td></tr>
+        <tr><td>CogSci Mind Challenge</td><td><span style="color:#E7AC10">Synthesize</span></td><td>2 (outline) + <br>4 (2 drafts) +<br> 4 (final)</td></tr>
         <tr><td>Project: literature review</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#508AB0">Evaluate</span></td><td>5</td></tr>
         <tr><td>Project: outline</td><td>All</td><td>5</td></tr>
         <tr><td>Project: first draft</td><td>All</td><td>5</td></tr>
