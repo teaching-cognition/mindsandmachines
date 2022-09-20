@@ -22,4 +22,12 @@ This page contains optional readings/podcasts and recommendations for different 
 4. Two articles on captchas (article [1](https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/) and [2](https://www.theverge.com/2019/2/1/18205610/google-captcha-ai-robothuman-
 difficult-artificial-intelligence)) and why they are so hard to solve
 
+## Week 4: Baby steps
+
+1. [Statistical learning and bilingualism](https://pubs.asha.org/doi/abs/10.1044/2018_LSHSS-STLT1-17-0139)
+2. [Statistical Learning Research: A Critical Review and Possible New Directions.](https://psycnet.apa.org/record/2019-59132-001?doi=1)
+3. [Curiosity in AI](https://www.deepmind.com/publications/is-curiosity-all-you-need-on-the-utility-of-emergent-behaviours-from-curious-exploration)
+4. [Nicaraguan Sign Language](https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00359)
+5. [Dall-E mini!](https://huggingface.co/spaces/dalle-mini/dalle-mini)
+
 
