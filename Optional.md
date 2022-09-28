@@ -29,5 +29,21 @@ difficult-artificial-intelligence)) and why they are so hard to solve
 3. [Curiosity in AI](https://www.deepmind.com/publications/is-curiosity-all-you-need-on-the-utility-of-emergent-behaviours-from-curious-exploration)
 4. [Nicaraguan Sign Language](https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00359)
 5. [Dall-E mini!](https://huggingface.co/spaces/dalle-mini/dalle-mini)
+6. [Steal or no steal in baseball](https://www.youtube.com/watch?v=PmlRbfSavbI), contributed by Thomas
+7. [A meta-analysis on statistical learning](https://doi.org/10.1111/cogs.13198)
+8. [Many Minds: Aphantasia](https://manyminds.libsyn.com/when-the-minds-eye-cant-see)
+9. [Many Minds: Can AI be creative?](https://manyminds.libsyn.com/can-artificial-minds-think-creatively)
 
+## Week 5: Walk like a human!
 
+1. [Jay Alammar's blog about all-things-deep-learning](https://jalammar.github.io/about/)
+2. [Vision Explorer, Allen AI](https://vision-explorer.allenai.org/)
+3. [Spot by Boston Dynamics](https://www.bostondynamics.com/products/spot)
+4. [Google's approach to curiosity and procrastination](https://ai.googleblog.com/2018/10/curiosity-and-procrastination-in.html)
+5. [DeepMind's approach to curiosity-driven learning](https://www.deepmind.com/publications/is-curiosity-all-you-need-on-the-utility-of-emergent-behaviours-from-curious-exploration)
+
+## Week 6: Talk like a human!
+1. [Write with a Transformer](https://transformer.huggingface.co/)
+2. [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4)
+3. [Play Hey Robot](https://playheyrobot.com/)
+4. Emily Bender and Alexander Koller on the [Octopus Test](https://aclanthology.org/2020.acl-main.463/) for large language models
