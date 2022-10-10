@@ -47,3 +47,4 @@ difficult-artificial-intelligence)) and why they are so hard to solve
 2. [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4)
 3. [Play Hey Robot](https://playheyrobot.com/)
 4. Emily Bender and Alexander Koller on the [Octopus Test](https://aclanthology.org/2020.acl-main.463/) for large language models
+5. [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/), contributed by Thais
