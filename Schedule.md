@@ -10,6 +10,8 @@ This page will host the schedule of topics for the course. Please note that this
 
 This is a seminar course, where each week, you will read and respond to assigned readings and material via before-class reflections, participate in class discussions, and then submit a short after-class reflection. You will also lead discussion three times (one <span style="color:#FDB800">solo</span>, two <span style="color:#77BF08">joint</span>) in the semester and the order of discussants will be decided on the first day of class. You will also work on an individual [project](https://teaching-cognition.github.io/mindsandmachines/Project.html), and present your ideas to the class on the last day via a three-minute thesis format, as well as write a 10-page paper, which will be due at the end of the semester. 
 
+Each week, a **concept guide** will be posted ahead of time to help frame the assigned material. Additionally, there will be an **unanswered questions** form made available each week, where students can anonymously post their questions about concepts. In addition, I will meet with the discussion leaders a week before they are leading discussion to guide the overall flow of the class, brainstorm class activities, and/or clarify key concepts. Each class period will involve a 15-minute concept check, followed by a student-led discussion and activity, and an instructor-driven summary at the end of class.
+
 ## Schedule of Topics
 Topic headings are color-coded based on whether they are meant for <span style="color:#FDB800">solo</span> or <span style="color:#77BF08">joint</span> discussions.
 <br>

@@ -36,7 +36,7 @@ Grades will be determined based on the following rubric, which is based on empha
         </tr>
     </thead>
     <tbody>
-        <tr><td>Hypothes.is annotations + before-class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
+        <tr><td>Before-class Hypothes.is annotations + reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>20</td></tr>
         <tr><td>During class participation</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
         <tr><td>After class reflections</td><td><span style="color:#508AB0">Evaluate</span> + <span style="color:#1CB447">appreciation</span></td><td>5</td></tr>
         <tr><td>Solo discussion</td><td><span style="color:#E7AC10">Synthesize</span> + <span style="color:#1CB447">appreciation</span></td><td>10</td></tr>
@@ -52,23 +52,27 @@ Grades will be determined based on the following rubric, which is based on empha
     </tbody>
 </table>
 
-## Hypothes.is annotations
+## Before-class Hypothes.is annotations + reflections
 
-For the research articles that you will read during the week, you are required to submit annotations and respond to your classmates' annotations **by 6 PM the day before class**, using the Hypothes.is tool within Canvas. Annotations are visible to all classmates.
+For the research articles that you will read during the week, you are required to submit annotations and/or reflections and respond to your classmates' annotations **by 6 PM the day before class**, using the Hypothes.is tool and reflections assignment within Canvas. Annotations and before-class reflections are visible to all classmates.
 
-Your annotations should reflect your engagement with the material and you are encouraged to ask thoughtful questions as you go. You are required to post **at least two annotations per reading**, but feel free to post as many as you wish. The goal of these annotations is to stimulate the in-class discussions, so remember to be thoughtful and respectful of your classmates' ideas and opinions as you make and view annotations.
+Your annotations/reflections should reflect your engagement with the material and you are encouraged to ask thoughtful questions as you go. The goal of these annotations is to stimulate the in-class discussions, so remember to be thoughtful and respectful of your classmates' ideas and opinions as you make and view annotations.
 
-Making good-quality annotations requires you to critically engage with the readings. As you think through the content, consider the central arguments posed by the paper, and pose questions about the logic, clarity, technical soundness, as well as implications of the arguments. You may not have all the answers for the questions that come to mind and are not expected to, either. But you are expected to thoroughly engage with the questions, connect ideas from previous weeks' readings, and offer possible thoughts and answers to your classmates' responses. Each annotation is expected to be short (less than 150 words), **question-oriented**, and not expected to take up more than 10-15 minutes per reading.
+There is some flexibility in how you annotate/reflect on the assigned material before class. The overall policy is as follows: 
+1. One annotation per reading is required
+2. For the second part, you can either
+    *	submit another annotation per reading
+    *	submit a more big-picture reflection that synthesizes ideas across readings and/or the podcast. 
+    
+Making good-quality annotations requires you to critically engage with the readings. As you think through the content, consider the central arguments posed by the paper, and pose questions about the logic, clarity, technical soundness, as well as implications of the arguments. You may not have all the answers for the questions that come to mind and are not expected to, either. But you are expected to thoroughly engage with the questions, connect ideas from previous weeks' readings, and offer possible thoughts and answers to your classmates' responses. Each annotation is expected to be short (less than 150 words) and **question-oriented**. Reflections are meant to guide your engagement with the material, encourage you to think about big-picture issues, and connect ideas spanning across different assigned materials. These reflections, together with the class annotations, also help the discussant(s) assimilate the thoughts and ideas of the class into core themes that they will highlight during class. Before-class reflections are expected to be short (less than 250 words), and are not expected to take up more than 15-20 minutes per reflection. 
 
-## Reflections
+Taken together, annotations and/or before-class reflections are worth 20% of your total grade. On Canvas, your “annotation” grade each week will reflect your combined contribution via annotations and/or reflections out of 10 points. I will NOT be separately providing points on reflections but I will be reading them and your annotation grade will reflect this.
 
-Reflections are meant to serve two purposes. First, <strong>before-class</strong> reflections are meant to guide your engagement with the material, encourage you to think about big-picture issues, and connect ideas spanning across different assigned materials. These reflections, together with the class annotations, also help the discussant(s) assimilate the thoughts and ideas of the class into core themes that they will highlight during class. 
 
-**Before-class reflections are due by 6 PM the day before class**, and can be viewed by all classmates. Before-class reflections are expected to be short (less than 250 words), and are not expected to take up more than 15-20 minutes per reflection. 
+## After-class reflections
 
-**NOTE**: Before-class reflections are **NOT mandatory** and do not *technically* count towards your final grade. However, if you find these useful in assimilating ideas/thoughts, please submit them and I will grade you on annotations + reflections together, i.e., if you choose to submit before-class reflections, your annotation "grade" will reflect your engagement through annotations and reflections. If you choose to submit **only** annotations, then your annotation "grade" will reflect your engagement only through annotations.
 
-Second, <strong>after-class</strong> reflections are meant to motivate you to think thoroughly about the discussion in class and reflect on your major takeaways from the class. In addition, you will also provide feedback that will be anonymously passed to the discussant in your reflections. **After-class reflections are due by 9 AM on the day after class**. After-class reflections are expected to be short (less than 150 words), and are not expected to take up more than 10-15 minutes per reflection. 
+<strong>After-class</strong> reflections are meant to motivate you to think thoroughly about the discussion in class and reflect on your major takeaways from the class. In addition, you will also provide feedback that will be anonymously passed to the discussant in your reflections. **After-class reflections are due by 9 AM on the day after class**. After-class reflections are expected to be short (less than 150 words), and are not expected to take up more than 5-10 minutes per reflection. 
 
 In addition to reflecting on the class discussion, you will also have the option to submit a meme at the end of each week, which will be entered into a "memer of the semester" contest, where you and your classmates will score the submitted memes each week. The student who has the highest score at the end of the semester will get 1 additional point added to their final grade!
 
