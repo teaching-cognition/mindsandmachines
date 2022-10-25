@@ -17,6 +17,13 @@ For **either** option, you will need to:
 2. Write a 10-page, double-spaced paper in Times New Roman font using APA style
 3. Present a synopsis of your paper on the last day of class in the <a href="https://threeminutethesis.uq.edu.au/" target="_blank">3-minute-thesis format</a>
 
+
+## Resources
+
+### Paper Outline
+
+Outlines are crucial to a good paper. This [article](https://psych.uw.edu/storage/writing_center/outline.pdf) covers the purpose of an outline, types of outlines, and some examples of how to structure your central arguments as well as possible research studies. This [document](https://www.wolfe.k12.ky.us/userfiles/1009/Research%20Paper%20Outline%20Example%20PDF.pdf) provides a good example of what a argument-based outline might look like for your paper. Please follow *one* of the formats described in these articles for your outline.  
+
 ## How will my work be evaluated?
 
 Your final project is worth 30% of your total grade. The project will be evaluated in the following stages:
@@ -33,8 +40,3 @@ Your final project is worth 30% of your total grade. The project will be evaluat
     <tr><td> Final paper </td><td>10 points</td><td>Dec. 14</td>
 </table>
 
-## Resources
-
-### Paper Outline
-
-Outlines are crucial to a good paper. This [article](https://psych.uw.edu/storage/writing_center/outline.pdf) covers the purpose of an outline, types of outlines, and some examples of how to structure your central arguments as well as possible research studies. This [document](https://www.wolfe.k12.ky.us/userfiles/1009/Research%20Paper%20Outline%20Example%20PDF.pdf) provides a good example of what a argument-based outline might look like for your paper. Please follow *one* of the formats described in these articles for your outline.  
