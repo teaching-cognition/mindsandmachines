@@ -31,6 +31,7 @@ Your final project is worth 30% of your total grade. The project will be evaluat
     <tr><td> Paper second draft (optional) </td><td>2 points</td><td>Dec. 1</td>
     <tr><td> 3 MT </td><td>5 points</td><td>Dec. 8</td>
     <tr><td> Final paper </td><td>10 points</td><td>Dec. 14</td>
+</table>
 
 ## Resources
 
