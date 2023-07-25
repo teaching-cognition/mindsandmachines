@@ -1,59 +1,29 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "Welcome to Intelligent Minds and Machines"
-permalink: /
----
+# PSYC 2530 Introductory Cognitive Psychology <a href='https:/crumplab.github.io/cognition'><img src="man/figures/logo.png" align="right" height="120.5"/></a>
 
-# Intelligent Minds and Machines: PSYC 3043
+<!-- badges: start -->
 
-Welcome! This website will host the course content and syllabi for PSYC 3043.
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
+<!-- badges: end -->
 
-## Basic Course Information
-**Course number**: PSYC 3043 <br>
-**Semester**: Fall 2022<br>
-**When**: Tuesdays & Thursdays, 2:50 PM - 4:15 PM <br>
-**Where**: Kanbar Hall 101<br>
-**Website**: You are here!<br>
-**Pre-requisites**: Three of:
-1. Either PSYC 2040 or PSYC 2060 (same as NEUR 2060)
-2. PSYC 2510
-3. PSYC 2520<br>
+**Updated for Fall 2022. Prior versions of this courses are archived in the branches of this repository.**
 
+This is the course website for Psyc 2530: Introductory Cognitive Psychology (Fall 2022), taught by Dr. Matthew Crump, at the Department of Psychology, Brooklyn College of CUNY.
 
+Instructor: [Matthew Crump](https://www.crumplab.com) Email: [mcrump\@brooklyn.cuny.edu](mcrump@brooklyn.cuny.edu) (students please put PSYC 2530 in the subject line)
 
-## Who is your instructor?
-<img width = "30%" height = "auto" src = "kumar_thumbnail.png"><br>
-**Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
-**Pronouns**: she/her
+### For students in my class
 
-**About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new recipes, and playing tennis (badly)! <br>
+We will use the resources on this website along with blackboard throughout the semester. This website will always contain the most up-to-date syllabus. The syllabus, textbook, and learning modules, slides, and other resources can all be accessed using the tabs at the top of the page.
 
-**Email**: a.kumar@bowdoin.edu <br>
+Looking forward to meeting you in class!
 
-**Office**: Kanbar Hall, Room 217 <br>
+If you have questions please email me. If you think other students have the same question, then please ask your question on the blackboard discussion board for this course.
 
-**Student/Office hours**: Tue 10-11.15 AM, Tue 4.15-5 PM, Fri 10 AM-1 PM
+### Open-educational resource
 
-You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
+This is an open-educational resource that is free to use, share, copy, edit, and remix, with attribution and following this license.
 
-## What is this course about?
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Why are humans considered the most “intelligent” species on the planet? Where does artificial intelligence (AI) fall short in mimicking this intelligent behavior? This seminar course delves into several such fundamental questions about human cognition and how our species is similar to and different from other minds and machines. We will discuss classic and modern approaches to understanding the mind, critically analyze various examples of intelligent behavior (such as language, cooperation, creativity, free will, etc.), evaluate recent work in machine learning and AI, and also draw insights about intelligence from the exciting literature on comparative (animal) cognition. You will read empirical articles, listen to podcasts,  lead discussions, and also participate through spoken presentations and short writing assignments.
-
-## Why take this course? a.k.a. learning goals
-
-The last few years have seen impressive highs and lows in the study and pursuit of intelligence. Through this course, I hope to communicate some of the excitement and skepticism that researchers in the field feel today. At the end of this course, you will be able to: <br>
-
-1. Analyze and <span style="color:#508AB0">evaluate</span> current approaches to understanding and building intelligence [Department Goal #4]
-2.  <span style="color:#E7AC10">Synthesize</span> literature on a focused aspect of intelligence and produce an original critique [Department Goal #7]
-3. Develop an <span style="color:#1CB447">appreciation</span> for cultural and ethical issues surrounding the study of intelligence [Department Goal #3]
-
-## How will we communicate? 
-The majority of our communication will occur via Canvas. Assignments will be posted and submitted on Canvas and questions about the course or the content can also be posted on Canvas. I and other classmates will respond to questions on Canvas so everyone has access to the questions and responses. Email will also be used regularly as part of this course. As much as possible, I will respond within 24 hours to emails with the exception that anything sent after 5pm on Fridays will not be addressed until Monday morning at the earliest. To meet with me individually, contact me via email.
-
-## How to navigate this site?
-
-All course details will be posted on this website. Use the sidebar to explore the class schedule and course policies. You may also use the *search* bar at the top of the page to look for specific content (e.g., Try searching for "late work policy"!)
+The suite is developed using open-source software (R, RStudio, Bookdown). The source code for this project is available at <https://github.com/CrumpLab/cognition>. These materials are being actively developed. See the [OER development page](articles/oer/oer.html)

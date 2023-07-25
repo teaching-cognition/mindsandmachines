@@ -1,0 +1,59 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+    - "!*.rmd"
+  output-dir: docs
+  resources:
+    - "images/"
+    - "slides/"
+    - "textbook/book/"
+  
+
+website:
+  site-url: "https://teaching-cognition.github.io/mindsandmachines/"
+  
+  google-analytics: "G-0PT8LKEC0K"
+  
+  repo-url: https://github.com/teaching-cognition/mindsandmachines
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    left: "This page is built with [Quarto](https://quarto.org/)."
+    right:
+    - text: "License"
+      href: LICENSE.md
+  
+  open-graph: true
+  twitter-card:
+    creator: "@abhilashaakumar"
+  
+  title: "PSYC 3043"
+  navbar:
+    logo: "images/Designer.png"
+    title: false
+    align: center
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Syllabus"
+        file: articles/course_docs/syllabus.qmd
+      - text: "Schedule"
+        file: articles/course_docs/syllabus.html#course-schedule
+      - text: "Materials"
+        file: articles/course_docs/syllabus.html#assigned-materials
+      - text: "QALMRI & SPARK"
+        file: articles/course_docs/QALMRI_SPARK.qmd
+      - text: "Additional Resources"
+        file: articles/course_docs/resources.qmd
+        
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+
+editor: source
+
