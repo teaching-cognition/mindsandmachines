@@ -158,7 +158,7 @@ knitr::kable(Lectures)
 
 ##### <u>Thursday, September 28, 2023 </u>
 
-- <span style="color:blue"> [QALMRI]</span> Cassenti, D. N., Veksler, V. D., & Ritter, F. E. (2022). Editor's Review and Introduction: Cognition‐Inspired Artificial Intelligence. <i>Topics in Cognitive Science, 14</i>(4), 652-664.
+- <span style="color:blue"> [QALMRI]</span> Mandera, P., Keuleers, E., & Brysbaert, M. (2017). Explaining human performance in psycholinguistic tasks with models of semantic similarity based on prediction and counting: A review and empirical validation. <i>Journal of Memory and Language, 92</i>, 57-78.
 - <span style="color:red"> [SPARK]</span> DeepMind Podcast: <a href="https://www.youtube.com/watch?v=21JSKHR7KWw">Speaking of intelligence</a><strong>(38 mins)</strong>
 
 ##### <u>Sunday, October 1, 2023 </u>
@@ -187,16 +187,16 @@ knitr::kable(Lectures)
 - <span style="color:blue"> [QALMRI]</span> Fiser, J., & Aslin, R. N. (2002). Statistical learning of new visual feature combinations by infants.<i> Proceedings of the National Academy of Sciences, 99</i>(24), 15822-15826.
 - <span style="color:red"> [SPARK]</span>Smith, L. B., Jayaraman, S., Clerkin, E., & Yu, C. (2018). The developing infant creates a curriculum for statistical learning.<i> Trends in Cognitive Sciences, 22</i>(4), 325-336.
 
-#### **Week 8: Grounding**
+#### **Week 8: Mental Simulation and Grounding**
 
 ##### <u>Tuesday, October 17, 2023 </u>
 
-- <span style="color:blue"> [QALMRI]</span> Glenberg, A. M., & Kaschak, M. P. (2002). Grounding language in action. <i>Psychonomic Bulletin & Review, 9</i>(3), 558-565.
+- <span style="color:blue"> [QALMRI]</span> Matlock, T. (2004). Fictive motion as cognitive simulation. <i>Memory & Cognition, 32</i>, 1389-1400..
 - <span style="color:blue"> [QALMRI]</span> Morey, R. D., Kaschak, M. P., Díez-Álamo, A. M., Glenberg, A. M., Zwaan, R. A., Lakens, D., ... & Ziv-Crispel, N. (2022). A pre-registered, multi-lab non-replication of the action-sentence compatibility effect (ACE). <i>Psychonomic Bulletin & Review, 29</i>(2), 613-626.
 
 ##### <u>Thursday, October 19, 2023 </u>
 
-- Beran, M. J., & Parrish, A. E. (2022). Consistently Inconsistent Perceptual Illusions in Nonhuman Primates: The Importance of Individual Differences. <i>Animals, 13</i>(1), 22.
+- TBD
 
 ##### <u>Sunday, October 22, 2023 </u>
 
@@ -219,7 +219,7 @@ knitr::kable(Lectures)
 
 - <span style="color:blue"> [QALMRI]</span> Bridgers, S., Jara-Ettinger, J., & Gweon, H. (2020). Young children consider the expected utility of others’ learning to decide what to teach. <i>Nature Human Behaviour, 4</i>(2), 144-152.
 
-- <span style="color:red"> [SPARK]</span>Ruffman, T. (2014). To belief or not belief: Children’s theory of mind. <i>Developmental Review, 34</i>(3), 265-293.
+- <span style="color:red"> [SPARK]</span>Rakoczy, H. (2022). Foundations of theory of mind and its development in early childhood. <i>Nature Reviews Psychology, 1</i>(4), 223-235.
 
 ##### <u>Thursday, November 2, 2023</u>
 
@@ -233,6 +233,7 @@ knitr::kable(Lectures)
 
 ##### <u>Tuesday, November 7, 2023 </u>
 
+- <span style="color:blue"> [QALMRI]</span> Buttelmann, D., Buttelmann, F., Carpenter, M., Call, J., & Tomasello, M. (2017). Great apes distinguish true from false beliefs in an interactive helping task. <i>PloS one, 12</i>(4), e0173793.
 - <span style="color:red"> [SPARK]</span>Krupenye, C., & Call, J. (2019). Theory of mind in animals: Current and future directions. <i>Wiley Interdisciplinary Reviews: Cognitive Science, 10</i>(6), e1503. (25 pages)
 
 ##### <u> Thursday, November 9, 2023 </u>
@@ -243,12 +244,13 @@ knitr::kable(Lectures)
 
 ##### <u>Tuesday, November 14, 2023 </u>
 
-- Nagel, T. (1974). What is it like to be a bat?. <i>The Philosophical Review, 83</i>(4), 435-450.(17 pages)
-- Tomasello, M. What is it like to be a chimpanzee?. Synthese 200, 102 (2022). https://doi.org/10.1007/s11229-022-03574-5
+- <span style="color:red"> [SPARK]</span> Nagel, T. (1974). What is it like to be a bat?. <i>The Philosophical Review, 83</i>(4), 435-450.(17 pages)
+- <span style="color:red"> [SPARK]</span> Tomasello, M. What is it like to be a chimpanzee?. <i>Synthese 200, 102 </i> (2022). https://doi.org/10.1007/s11229-022-03574-5
 
 
 ##### <u>Thursday, November 16, 2023 </u>
-- Lemoine, B. (2022). Is LaMDA Sentient? An Interview <strong>(21 pages)</strong>
+- Psychonomics Conference (No Class BUT assigned reading)
+- <span style="color:red"> [SPARK]</span> Lemoine, B. (2022). Is LaMDA Sentient? An Interview <strong>(21 pages)</strong>
 
 #### **Week 13: Learning and Teaching**
 
@@ -262,7 +264,7 @@ knitr::kable(Lectures)
 
 - Thanksgiving break! No class!
 
-#### **Week 14: Cumulative Culture**
+#### **Week 14: Culture and Conventions**
 
 ##### <u> Tuesday, November 28, 2023 </u>
 
@@ -272,7 +274,7 @@ knitr::kable(Lectures)
 
 ##### <u> Thursday, November 30, 2023</u>
 
-- Swarm robotics
+- Centola, D., & Baronchelli, A. (2015). The spontaneous emergence of conventions: An experimental study of cultural evolution. <i>Proceedings of the National Academy of Sciences, 112</i>(7), 1989-1994.
 
 - <span style="color:red"> [SPARK]</span>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=j9IOXa-iXKY" target="_blank">Better together</a><strong>(34 mins)</strong>
 
