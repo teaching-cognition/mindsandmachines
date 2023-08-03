@@ -364,13 +364,16 @@ Overall, here is a breakdown of how class participation will be assessed:
 
 | Component        | Points |    
 |:------------------|-------:|
-| In-class participation and/or attending office hours |     5 |
-| Attendance (attending 90% of classes)     |      5 |
+| In-class participation and/or attending office hours |     2.5 |
+| Providing feedback on class discussions |     5 |
+| Attendance (attending 90% of classes)     |      2.5 |
 |                   |     10   |    
 
-In-class participation will be assessed based on how engaged you are in or outside class - this does not mean that you need to talk in each class or come to office hours every week, but I will be looking for engagement via participating in in-class activities, asking questions, volunteering answers, etc. on an *overall* basis.
+In-class participation will be assessed based on how engaged you are in or outside class - I will be looking for engagement via participating in in-class activities, asking questions, volunteering answers, etc. on an *overall* basis. 
 
-Attendance will be taken for each class and you will get full credit if you attend at least 90% of the class sessions. Beyond that, you will be assigned partial credit based on the number of classes you miss, i.e., 1 point will be deducted for each 10% drop in attendance (e.g., if you attend 80% of the classes, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.)
+At the end of each class session where students are leading discussion, you will be asked to provide feedback for them via an anonymous survey. Filling out these surveys will count towards your class participation grade. Specifically, if you fill out 90% of these feedback surveys, you will earn 5 points. If you fill out 80% of these surveys, you will earn 4 points. If you fill out anything between 1-79% of these surveys, you will earn 3 points. If you fill out no surveys, you will earn 0 points.
+
+Attendance will be taken for each class and you will get full credit if you attend at least 90% of the class sessions. Beyond that, you will be assigned partial credit based on the number of classes you miss, i.e., 0.5 point will be deducted for each 10% drop in attendance (e.g., if you attend 80% of the classes, you will earn 2 points out of 2.5, if you attend 70% of the classes, you will earn 1.5 points out of 2.5, etc.)
 
 ### Leading discussions (20 points)
 
