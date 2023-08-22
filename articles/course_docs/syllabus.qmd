@@ -150,7 +150,8 @@ knitr::kable(Lectures)
 
 ##### <u>Thursday, September 28, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Mandera, P., Keuleers, E., & Brysbaert, M. (2017). Explaining human performance in psycholinguistic tasks with models of semantic similarity based on prediction and counting: A review and empirical validation. <i>Journal of Memory and Language, 92</i>, 57-78.
+- **Guest**: [Dr. Aida Nematzadeh](http://www.aidanematzadeh.me/)
+- <span style="color:blue"> [QALMRI]</span> Nematzadeh, A., Burns, K., Grant, E., Gopnik, A., & Griffiths, T. L. (2018). Evaluating theory of mind in question answering. arXiv preprint arXiv:1808.09352..
 - <span style="color:red"> [SPARK]</span> DeepMind Podcast: <a href="https://www.youtube.com/watch?v=21JSKHR7KWw">Speaking of intelligence</a><strong>(38 mins)</strong>
 
 ##### <u>Sunday, October 1, 2023</u>
