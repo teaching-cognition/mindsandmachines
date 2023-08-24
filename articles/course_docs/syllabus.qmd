@@ -233,7 +233,7 @@ knitr::kable(Lectures)
 - <span style="color:blue"> [QALMRI]</span> Buttelmann, D., Buttelmann, F., Carpenter, M., Call, J., & Tomasello, M. (2017). Great apes distinguish true from false beliefs in an interactive helping task. <i>PloS one, 12</i>(4), e0173793.
 - <span style="color:red"> [SPARK]</span>Krupenye, C., & Call, J. (2019). Theory of mind in animals: Current and future directions. <i>Wiley Interdisciplinary Reviews: Cognitive Science, 10</i>(6), e1503. (25 pages)
 
-##### <u> Thursday, November 9, 2023</u>: <span style="color:#AE8413">Solo</span>
+##### <u> Thursday, November 9, 2023</u>: <span style="color:#118271">Prof</span>
 - **Guest**: [Dr. Aida Nematzadeh](http://www.aidanematzadeh.me/)
 - <span style="color:blue"> [QALMRI]</span> Nematzadeh, A., Burns, K., Grant, E., Gopnik, A., & Griffiths, T. L. (2018). Evaluating theory of mind in question answering. arXiv preprint arXiv:1808.09352.
 <!--
