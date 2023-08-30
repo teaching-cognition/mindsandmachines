@@ -16,9 +16,6 @@ Welcome! This is the course website for **Intelligent Minds and Machines** (Fall
 **Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 3043 in the subject line)
 
-**Learning Assistant**: TBD <br>
-
-
 ## Note to students
 
 We will use the resources on this website along with Canvas throughout the semester. This website will always contain the most up-to-date syllabus and course policies. The syllabus, list of reading material, and other resources can all be accessed using the tabs at the top of the page or through the sidebar.
