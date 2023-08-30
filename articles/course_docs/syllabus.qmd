@@ -112,6 +112,7 @@ knitr::kable(Lectures)
 
 ##### <u>Thursday, September 7, 2023</u>: <span style="color:#AE8413">Prof</span>
 
+- <span style="color:blue"> [QALMRI]</span>Bian, L., Leslie, S. J., & Cimpian, A. (2017). Gender stereotypes about intellectual ability emerge early and influence children’s interests. <i>Science, 355</i>(6323), 389-391.
 - <span style="color:red"> [SPARK]</span> Griffiths, T. L. (2020). Understanding human intelligence through human limitations. <i> Trends in Cognitive Sciences</i>, 24(11), 873-883.
 
 
