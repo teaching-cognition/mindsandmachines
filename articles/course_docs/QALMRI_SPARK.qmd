@@ -150,6 +150,8 @@ Experiment 2: Typists were again fast and accurate in the normal keyboard condit
 
 The results are *not consistent* with the internal map hypothesis. If typists had an internal map, and did not rely on tactile cues, then they should have typed normally even when the cues were removed (as in the case of the laser projection keyboard). The results are consistent with learned association hypothesis, that typists rely on cues, like the feel of the keyboard, that are associated with particular key locations.
 
+**Note**: For this class, you should also reflect more broadly on the inferences in this section. You should discuss how the discussion in class elaborated on the inferences as well as any other broader themes that jumped out at you from the class session.
+
 ## The SPARK Method
 
 This guide aims to help you make the most of reading review articles in psychology or summarizing an academic podcast. 
