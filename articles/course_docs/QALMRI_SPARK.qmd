@@ -114,6 +114,12 @@ Writing a QALMRI for any research paper (one that you are writing, or one that y
 
 Even if you haven't read the article, reading a QALMRI should provide you with enough information to get a basic idea of what the article was about. The following QALMRI summarizes our example article by Crump & Logan (2010).
 
+#### Article citation
+
+**Article**: Crump, M. J., & Logan, G. D. (2010). Warning: This keyboard will deconstruct—The role of the keyboard in skilled typewriting. Psychonomic bulletin & review, 17(3), 394-399.
+
+- Note: The APA citation is the first thing your QALMRI summary should contain. This informs the reader (usually me) which article you have chosen to summarize.
+
 #### What was the broad and specific question?
 
 The broad questions are about spatial cognition. How do people understand and represent the spatial relationships between objects in the environment? Do people have "spatial maps" in their head?
