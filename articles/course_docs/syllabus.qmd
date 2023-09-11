@@ -143,7 +143,7 @@ knitr::kable(Lectures)
 
 ##### <u>Thursday, September 21, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:red"> [SPARK]</span> Frost, R., Armstrong, B. C., & Christiansen, M. H. (2019). Statistical learning research: A critical review and possible new directions. <i>Psychological Bulletin, 145</i>(12), 1128.
+- <span style="color:red"> [SPARK]</span> Turing, A. M. (1950). Computing Machine and Intelligence. <i>MIND ,LIX</i>, 433-460.
 
 #### **Week 5: Modeling Language**
 
