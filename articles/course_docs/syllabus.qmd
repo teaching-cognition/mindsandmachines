@@ -153,7 +153,7 @@ knitr::kable(Lectures)
 
 ##### <u>Thursday, September 28, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- Chen, D., Peterson, J. C., & Griffiths, T. L. (2017). Evaluating vector-space models of analogy. arXiv preprint arXiv:1705.04416. In <i>Proceedings of the 39th Annual Conference of the Cognitive Science Society</i>
+- <span style="color:blue"> [QALMRI]</span>Chen, D., Peterson, J. C., & Griffiths, T. L. (2017). Evaluating vector-space models of analogy. arXiv preprint arXiv:1705.04416. In <i>Proceedings of the 39th Annual Conference of the Cognitive Science Society</i>
 - <span style="color:red"> [SPARK]</span> DeepMind Podcast: <a href="https://www.youtube.com/watch?v=21JSKHR7KWw">Speaking of intelligence</a><strong>(38 mins)</strong>
 
 ##### <u>Sunday, October 1, 2023</u>
