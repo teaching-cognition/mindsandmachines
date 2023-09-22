@@ -184,7 +184,7 @@ knitr::kable(Lectures)
 
 ##### <u>Thursday, October 12, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Fiser, J., & Aslin, R. N. (2002). Statistical learning of new visual feature combinations by infants.<i> Proceedings of the National Academy of Sciences, 99</i>(24), 15822-15826.
+- <span style="color:blue"> [QALMRI]</span> Clerkin, E. M., Hart, E., Rehg, J. M., Yu, C., & Smith, L. B. (2017). Real-world visual statistics and infants' first-learned object names. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 372</i>(1711), 20160055.
 - <span style="color:red"> [SPARK]</span>Smith, L. B., Jayaraman, S., Clerkin, E., & Yu, C. (2018). The developing infant creates a curriculum for statistical learning.<i> Trends in Cognitive Sciences, 22</i>(4), 325-336.
 
 #### **Week 8: Mental Simulation and Grounding**
@@ -204,14 +204,16 @@ knitr::kable(Lectures)
 
 #### **Week 9: Modeling Perception**
 
-##### <u>Tuesday, October 24, 2023</u>: <span style="color:#118271">Prof</span>
+##### <u>Tuesday, October 24, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Kanwisher, N., Khosla, M., & Dobs, K. (2023). Using artificial neural networks to ask ‘why’ questions of minds and brains. <i>Trends in Neurosciences, 46</i>(3), 240-254.
-- <span style="color:red"> [SPARK]</span>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a><strong>(33 mins)</strong>
+- <span style="color:blue"> [QALMRI]</span>Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitative similarities and differences in visual object representations between brains and deep networks. <i>Nature Communications, 12</i>(1), 1872.
+- <span style="color:red"> [SPARK]</span> Kanwisher, N., Khosla, M., & Dobs, K. (2023). Using artificial neural networks to ask ‘why’ questions of minds and brains. <i>Trends in Neurosciences, 46</i>(3), 240-254.
+
 
 
 ##### <u>Thursday, October 26, 2023</u>: <span style="color:#AE8413">Solo</span>
 - <span style="color:blue"> [QALMRI]</span> Allen, K. R., Smith, K. A., & Tenenbaum, J. B. (2020). Rapid trial-and-error learning with simulation supports flexible tool use and physical reasoning.<i>Proceedings of the National Academy of Sciences, 117</i>(47), 29302-29310.<strong>(9 pages)</strong>
+- <span style="color:red"> [SPARK]</span>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a><strong>(33 mins)</strong>
 
 #### **Week 10: Theory of Mind**
 
