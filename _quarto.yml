@@ -46,6 +46,8 @@ website:
         file: articles/course_docs/QALMRI_SPARK.qmd
       - text: "Final Project"
         file: articles/course_docs/syllabus.html#final-project-40-points
+      - text: "Discussion Leaders"
+        file: articles/course_docs/syllabus.html#leading-discussions-20-points
       - text: "Additional Resources"
         file: articles/course_docs/resources.qmd
         
