@@ -44,6 +44,8 @@ website:
         file: articles/course_docs/syllabus.html#assigned-materials
       - text: "QALMRI & SPARK"
         file: articles/course_docs/QALMRI_SPARK.qmd
+      - text: "Final Project"
+        file: articles/course_docs/syllabus.html#final-project-40-points
       - text: "Additional Resources"
         file: articles/course_docs/resources.qmd
         

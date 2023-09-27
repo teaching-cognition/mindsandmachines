@@ -432,17 +432,17 @@ There will be several formative low-stakes milestones during the semester to ens
 |:-------------|:------------|
 | Project selection            | 2.5    |
 | Selection of aspect of intelligence           | 2.5  |
-| QALMRI/SPARK for research articles           | 15 |
+| QALMRI/SPARK for research articles           | 10 |
 | Project plan/outline            | 5 |
 | First draft           | 2.5    |
-| Final submission           | 12.5 |
+| Final submission           | 17.5 |
 | **Total**           | 40 |
 
-##### Milestone 1: Project selection (5 points)
+##### Milestone 1: Project selection (2.5 points)
 
 This assessment will happen relatively early in the semester to ensure that you are clear on the different demands of the project options. This assessment will be graded for thoughtful effort, i.e., I want to see that you have made an effort to select the option that best aligns with your goals for this class. 
 
-##### Milestone 2: Selection of aspect of intelligence (5 points)
+##### Milestone 2: Selection of aspect of intelligence (2.5 points)
 
 This assessment will help you think about the particular instance of cognition that you might want to explore. Note that the aspect of intelligence you select will depend on the project you have selected, so this assessment may also involve describing some specifics of your project. This assessment will be graded for thoughtful effort, i.e., I want to see that you have made an effort to identify an instance of cognition that aligns well with the project you have selected. 
 
@@ -458,7 +458,7 @@ This assessment is intended to help you organize your overall plan for the final
 
 This assessment is intended to provide you feedback on your nearly-final submission. The goal is to make sure you are on track to submitting a strong final project. This assessment will be graded for thoughtful effort, i.e., I want to see that you are making steady progress on your project.
 
-##### Milestone 6: Final submission (12.5 points)
+##### Milestone 6: Final submission (17.5 points)
 
 This final assessment will require you to submit your final project and all its components. The specifics of your submission will vary based on your chosen project, so please refer to the details of your project to make sure you submit all required materials.
 
