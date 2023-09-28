@@ -187,33 +187,31 @@ knitr::kable(Lectures)
 - <span style="color:blue"> [QALMRI]</span> Clerkin, E. M., Hart, E., Rehg, J. M., Yu, C., & Smith, L. B. (2017). Real-world visual statistics and infants' first-learned object names. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 372</i>(1711), 20160055.
 - <span style="color:red"> [SPARK]</span>Smith, L. B., Jayaraman, S., Clerkin, E., & Yu, C. (2018). The developing infant creates a curriculum for statistical learning.<i> Trends in Cognitive Sciences, 22</i>(4), 325-336.
 
-#### **Week 8: Mental Simulation and Grounding**
+#### **Week 8: Modeling Perception**
 
 ##### <u>Tuesday, October 17, 2023</u>: <span style="color:#991293">Group</span>
 
-- <span style="color:blue"> [QALMRI]</span> Matlock, T. (2004). Fictive motion as cognitive simulation. <i>Memory & Cognition, 32</i>, 1389-1400..
-- <span style="color:blue"> [QALMRI]</span> Morey, R. D., Kaschak, M. P., Díez-Álamo, A. M., Glenberg, A. M., Zwaan, R. A., Lakens, D., ... & Ziv-Crispel, N. (2022). A pre-registered, multi-lab non-replication of the action-sentence compatibility effect (ACE). <i>Psychonomic Bulletin & Review, 29</i>(2), 613-626.
+- <span style="color:blue"> [QALMRI]</span>Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitative similarities and differences in visual object representations between brains and deep networks. <i>Nature Communications, 12</i>(1), 1872.
+- <span style="color:red"> [SPARK]</span>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a><strong>(33 mins)</strong>
 
 ##### <u>Thursday, October 19, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Engelmann, J. M., Völter, C. J., Goddu, M. K., Call, J., Rakoczy, H., & Herrmann, E. (2023). Chimpanzees prepare for alternative possible outcomes. <i>Biology Letters, 19</i>(6), 20230179.
+- <span style="color:red"> [SPARK]</span> Kanwisher, N., Khosla, M., & Dobs, K. (2023). Using artificial neural networks to ask ‘why’ questions of minds and brains. <i>Trends in Neurosciences, 46</i>(3), 240-254.
 
 ##### <u>Sunday, October 22, 2023</u>
 
 - Project Milestone #3 (QALMRI/SPARK) due!
 
-#### **Week 9: Modeling Perception**
+#### **Week 9: Emotional Learning**
 
 ##### <u>Tuesday, October 24, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span>Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitative similarities and differences in visual object representations between brains and deep networks. <i>Nature Communications, 12</i>(1), 1872.
-- <span style="color:red"> [SPARK]</span> Kanwisher, N., Khosla, M., & Dobs, K. (2023). Using artificial neural networks to ask ‘why’ questions of minds and brains. <i>Trends in Neurosciences, 46</i>(3), 240-254.
-
-
+- <span style="color:blue"> [QALMRI]</span> Plate, R. C., Wood, A., Woodard, K., & Pollak, S. D. (2019). Probabilistic learning of emotion categories. <i>Journal of Experimental Psychology: General, 148</i>(10), 1814.
 
 ##### <u>Thursday, October 26, 2023</u>: <span style="color:#AE8413">Solo</span>
-- <span style="color:blue"> [QALMRI]</span> Allen, K. R., Smith, K. A., & Tenenbaum, J. B. (2020). Rapid trial-and-error learning with simulation supports flexible tool use and physical reasoning.<i>Proceedings of the National Academy of Sciences, 117</i>(47), 29302-29310.<strong>(9 pages)</strong>
-- <span style="color:red"> [SPARK]</span>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a><strong>(33 mins)</strong>
+
+- <span style="color:red"> [SPARK]</span>Picard, R. W. (2008). Toward machines with emotional intelligence. https://hdl.handle.net/1721.1/137903.2
+
 
 #### **Week 10: Theory of Mind**
 
@@ -251,12 +249,13 @@ knitr::kable(Lectures)
 ##### <u>Tuesday, November 14, 2023</u>: <span style="color:#991293">Group</span>
 
 - <span style="color:red"> [SPARK]</span> Nagel, T. (1974). What is it like to be a bat?. <i>The Philosophical Review, 83</i>(4), 435-450.(17 pages)
-- <span style="color:red"> [SPARK]</span> Tomasello, M. What is it like to be a chimpanzee?. <i>Synthese 200, 102 </i> (2022). https://doi.org/10.1007/s11229-022-03574-5
+- <span style="color:red"> [SPARK]</span> Lemoine, B. (2022). Is LaMDA Sentient? An Interview <strong>(21 pages)</strong>
 
 
 ##### <u>Thursday, November 16, 2023</u>
 - Psychonomics Conference (No Class BUT assigned reading)
-- <span style="color:red"> [SPARK]</span> Lemoine, B. (2022). Is LaMDA Sentient? An Interview <strong>(21 pages)</strong>
+- <span style="color:red"> [SPARK]</span> Tomasello, M. What is it like to be a chimpanzee?. <i>Synthese 200, 102 </i> (2022). https://doi.org/10.1007/s11229-022-03574-5
+
 
 #### **Week 13: Learning and Teaching**
 
