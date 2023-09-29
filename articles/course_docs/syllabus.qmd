@@ -191,12 +191,12 @@ knitr::kable(Lectures)
 
 ##### <u>Tuesday, October 17, 2023</u>: <span style="color:#991293">Group</span>
 
-- <span style="color:blue"> [QALMRI]</span>Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. (2021). Qualitative similarities and differences in visual object representations between brains and deep networks. <i>Nature Communications, 12</i>(1), 1872.
+- <span style="color:blue"> [QALMRI]</span>LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>(7553), 436-444.
 - <span style="color:red"> [SPARK]</span>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a><strong>(33 mins)</strong>
 
 ##### <u>Thursday, October 19, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:red"> [SPARK]</span> Kanwisher, N., Khosla, M., & Dobs, K. (2023). Using artificial neural networks to ask ‘why’ questions of minds and brains. <i>Trends in Neurosciences, 46</i>(3), 240-254.
+- <span style="color:blue"> [QALMRI]</span> Fel, T., Rodriguez Rodriguez, I. F., Linsley, D., & Serre, T. (2022). Harmonizing the object recognition strategies of deep neural networks with humans. <i>Advances in Neural Information Processing Systems, 35</i>, 9432-9446.
 
 ##### <u>Sunday, October 22, 2023</u>
 
@@ -218,13 +218,13 @@ knitr::kable(Lectures)
 
 ##### <u>Tuesday, October 31, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Bridgers, S., Jara-Ettinger, J., & Gweon, H. (2020). Young children consider the expected utility of others’ learning to decide what to teach. <i>Nature Human Behaviour, 4</i>(2), 144-152.
+- <span style="color:blue"> [QALMRI]</span> Jara-Ettinger, J., Gweon, H., Tenenbaum, J. B., & Schulz, L. E. (2015). Children’s understanding of the costs and rewards underlying rational action. <i>Cognition, 140</i>, 14-23.
 
-- <span style="color:red"> [SPARK]</span>Rakoczy, H. (2022). Foundations of theory of mind and its development in early childhood. <i>Nature Reviews Psychology, 1</i>(4), 223-235.
+- <span style="color:blue"> [QALMRI]</span> Keysar, B., Lin, S., & Barr, D. J. (2003). Limits on theory of mind use in adults. <i>Cognition, 89</i>(1), 25-41.
 
 ##### <u>Thursday, November 2, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Keysar, B., Lin, S., & Barr, D. J. (2003). Limits on theory of mind use in adults. <i>Cognition, 89</i>(1), 25-41.
+- <span style="color:red"> [SPARK]</span> Shafto, P., Goodman, N. D., & Frank, M. C. (2012). Learning from others: The consequences of psychological reasoning for human learning.<i> Perspectives on Psychological Science, 7</i>(4), 341-351.
 
 ##### <u>Sunday, November 5, 2023</u>
 
@@ -244,7 +244,6 @@ knitr::kable(Lectures)
 - <span style="color:blue"> [QALMRI]</span> Ullman, T. (2023). Large language models fail on trivial alterations to theory-of-mind tasks. arXiv preprint arXiv:2302.08399.
 -->
 
-
 #### **Week 12: Consciousness and Sentience**
 
 ##### <u>Tuesday, November 14, 2023</u>: <span style="color:#991293">Group</span>
@@ -262,7 +261,7 @@ knitr::kable(Lectures)
 
 ##### <u> Tuesday, November 21, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Ho, M. K., Cushman, F., Littman, M. L., & Austerweil, J. L. (2021). Communication in action: Planning and interpreting communicative demonstrations. <i>Journal of Experimental Psychology: General, 150</i>(11), 2246.
+- <span style="color:blue"> [QALMRI]</span> Bridgers, S., Jara-Ettinger, J., & Gweon, H. (2020). Young children consider the expected utility of others’ learning to decide what to teach. <i> Nature Human Behaviour, 4</i>(2), 144-152.
 
 - <span style="color:red"> [SPARK]</span> Gweon, H., Fan, J., & Kim, B. (2023). Socially intelligent machines that learn from humans and help humans learn. <i>Philosophical Transactions of the Royal Society A, 381</i>(2251), 20220048.
 
@@ -272,7 +271,7 @@ knitr::kable(Lectures)
 
 #### **Week 14: Culture and Conventions**
 
-##### <u> Tuesday, November 28, 2023</u>: <span style="color:#118271">Prof</span>
+##### <u> Tuesday, November 28, 2023</u>: <span style="color:#AE8413">Solo</span>
 
 - <span style="color:blue"> [QALMRI]</span> Martin, D., Hutchison, J., Slessor, G., Urquhart, J., Cunningham, S. J., & Smith, K. (2014). The spontaneous formation of stereotypes via cumulative cultural evolution. <i>Psychological Science, 25</i>(9), 1777-1786.
 
