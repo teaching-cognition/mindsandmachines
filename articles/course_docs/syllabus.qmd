@@ -248,12 +248,13 @@ knitr::kable(Lectures)
 
 ##### <u>Tuesday, November 14, 2023</u>: <span style="color:#991293">Group</span>
 
-- <span style="color:red"> [SPARK]</span> Nagel, T. (1974). What is it like to be a bat?. <i>The Philosophical Review, 83</i>(4), 435-450.(17 pages)
+- <span style="color:red"> [SPARK]</span>Graziano, M. S., Guterstam, A., Bio, B. J., & Wilterson, A. I. (2020). Toward a standard model of consciousness: Reconciling the attention schema, global workspace, higher-order thought, and illusionist theories. <i>Cognitive Neuropsychology, 37</i>(3-4), 155-172.
 - <span style="color:red"> [SPARK]</span> Lemoine, B. (2022). Is LaMDA Sentient? An Interview <strong>(21 pages)</strong>
 
 
 ##### <u>Thursday, November 16, 2023</u>
-- Psychonomics Conference (No Class BUT assigned reading)
+- Psychonomics Conference (No Class BUT assigned readings)
+- <span style="color:red"> [SPARK]</span> Nagel, T. (1974). What is it like to be a bat?. <i>The Philosophical Review, 83</i>(4), 435-450.(17 pages)
 - <span style="color:red"> [SPARK]</span> Tomasello, M. What is it like to be a chimpanzee?. <i>Synthese 200, 102 </i> (2022). https://doi.org/10.1007/s11229-022-03574-5
 
 
