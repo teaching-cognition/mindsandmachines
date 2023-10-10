@@ -191,12 +191,12 @@ knitr::kable(Lectures)
 
 ##### <u>Tuesday, October 17, 2023</u>: <span style="color:#991293">Group</span>
 
-- <span style="color:blue"> [QALMRI]</span>LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>(7553), 436-444.
+- <span style="color:red"> [SPARK]</span>LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>(7553), 436-444.
 - <span style="color:red"> [SPARK]</span>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a><strong>(33 mins)</strong>
 
 ##### <u>Thursday, October 19, 2023</u>: <span style="color:#AE8413">Solo</span>
 
-- <span style="color:blue"> [QALMRI]</span> Fel, T., Rodriguez Rodriguez, I. F., Linsley, D., & Serre, T. (2022). Harmonizing the object recognition strategies of deep neural networks with humans. <i>Advances in Neural Information Processing Systems, 35</i>, 9432-9446.
+- <span style="color:red"> [SPARK]</span> Wichmann, F. A., & Geirhos, R. (2023). Are Deep Neural Networks Adequate Behavioral Models of Human Visual Perception?. <i>Annual Review of Vision Science</i>, 9.
 
 ##### <u>Sunday, October 22, 2023</u>
 
