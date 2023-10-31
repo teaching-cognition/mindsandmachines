@@ -223,6 +223,7 @@ knitr::kable(Lectures)
 - <span style="color:blue"> [QALMRI]</span> Keysar, B., Lin, S., & Barr, D. J. (2003). Limits on theory of mind use in adults. <i>Cognition, 89</i>(1), 25-41.
 
 ##### <u>Thursday, November 2, 2023</u>: <span style="color:#AE8413">Solo</span>
+- <span style="color:blue"> [QALMRI]</span> Hawkins, R. X., & Goodman, N. D. (2016). Conversational expectations account for apparent limits on theory of mind use. In <i>CogSci</i>.
 
 - <span style="color:red"> [SPARK]</span> Shafto, P., Goodman, N. D., & Frank, M. C. (2012). Learning from others: The consequences of psychological reasoning for human learning.<i> Perspectives on Psychological Science, 7</i>(4), 341-351.
 
