@@ -11,7 +11,7 @@ editor: source
 title-block-style: none
 ---
 
-Welcome! This is the course website for **Intelligent Minds and Machines** (Fall 2023), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+Welcome! This is the course website for **Intelligent Minds and Machines** (Fall 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
 **Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 3043 in the subject line)
