@@ -101,60 +101,77 @@ knitr::kable(Lectures)
 
 ##### <u>Tuesday, September 3, 2024</u>: Meet and greet! 
 
-- Syllabus
-- [QALMRI + SPARK](QALMRI_SPARK.html)
+- Read the [syllabus](#syllabus)
 
-##### <u>Thursday, September 5, 2024</u>: Facing our history
+##### <u>Thursday, September 5, 2024</u>: Cautionary tales
 
--  Yakushko, O. (2019). Eugenics and its evolution in the history of western psychology: A critical archival review. <i>Psychotherapy and Politics International, 17</i>(2), e1495.
-- Bian, L., Leslie, S. J., & Cimpian, A. (2017). Gender stereotypes about intellectual ability emerge early and influence children’s interests. <i>Science, 355</i>(6323), 389-391.
+-  Yakushko, O. (2019). Eugenics and its evolution in the history of western psychology: A critical archival review. <i>Psychotherapy and Politics International, 17</i>(2), e1495. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64429?module_item_id=385214" target="_blank">ANNOTATE</a></span>]
+- Bian, L., Leslie, S. J., & Cimpian, A. (2017). Gender stereotypes about intellectual ability emerge early and influence children’s interests. <i>Science, 355</i>(6323), 389-391.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64323?module_item_id=385217" target="_blank">ANNOTATE</a></span>]
 
+##### <u>Sunday, September 8, 2024, 2024</u>: Week 1 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64397?module_item_id=385212" target="_blank">Submit Week 1's Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64409?module_item_id=385213" target="_blank">Submit Week 1's Meme</a></span>
 
 #### **Week 2: Intelligence 101**
 
 ##### <u>Tuesday, September 10, 2024</u>: Can we define intelligence?
 
--  Coane, J. H., Cipollini, J., Barrett, T. E., Kavaler, J., & Umanath, S. (2024</u>). Lay Definitions of Intelligence, Knowledge, and Memory: Inter-and Independence of Constructs. <i>Journal of Intelligence, 11</i>(5), 84.
-- Legg, S., & Hutter, M. (2007). A collection of definitions of intelligence. Frontiers in Artificial Intelligence and applications, 157, 17.
+-  Coane, J. H., Cipollini, J., Barrett, T. E., Kavaler, J., & Umanath, S. (2024</u>). Lay Definitions of Intelligence, Knowledge, and Memory: Inter-and Independence of Constructs. <i>Journal of Intelligence, 11</i>(5), 84.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64333?module_item_id=385366" target="_blank">ANNOTATE</a></span>]
+- Legg, S., & Hutter, M. (2007). A collection of definitions of intelligence. Frontiers in Artificial Intelligence and applications, 157, 17. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64578?module_item_id=385882" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, September 12, 2024</u>: Cognition and intelligence
 
--  Griffiths, T. L. (2020). Understanding human intelligence through human limitations. <i> Trends in Cognitive Sciences</i>, 24(11), 873-883.
+-  Griffiths, T. L. (2020). Understanding human intelligence through human limitations. <i> Trends in Cognitive Sciences</i>, 24(11), 873-883.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64342?module_item_id=385218" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, September 15, 2024, 2024</u>: Week 2 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64355?module_item_id=385367" target="_blank">Submit Project Milestone #1 (Questions of Interest)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64411?module_item_id=385223" target="_blank">Submit Week 2's Meme</a></span>
+
 
 #### **Week 3: Statistical Learning**
 
 ##### <u>Tuesday, September 17, 2024</u>: Learning patterns from data
 
--  Saffran, J. R., Aslin, R. N., & Newport, E. L. (1996). Statistical learning by 8-month-old infants. <i>Science, 274</i>(5294), 1926-1928.
--  Saffran, J. R., & Kirkham, N. Z. (2018). Infant statistical learning. <i>Annual Review of Psychology, 69</i>, 181-203.
+-  Saffran, J. R., Aslin, R. N., & Newport, E. L. (1996). Statistical learning by 8-month-old infants. <i>Science, 274</i>(5294), 1926-1928. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64380?module_item_id=385224" target="_blank">ANNOTATE</a></span>]
+-  Saffran, J. R., & Kirkham, N. Z. (2018). Infant statistical learning. <i>Annual Review of Psychology, 69</i>, 181-203.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64381?module_item_id=385225" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, September 19, 2024</u>: From patterns to knowledge
 
--  Unger, L., & Fisher, A. V. (2021). The emergence of richly organized semantic knowledge from simple statistics: A synthetic review. Developmental Review, 60, 100949.
+-  Unger, L., & Fisher, A. V. (2021). The emergence of richly organized semantic knowledge from simple statistics: A synthetic review. <i>Developmental Review</i>, 60, 100949. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64396?module_item_id=385227" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, September 22, 2024, 2024</u>: Week 3 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64412?module_item_id=385229" target="_blank">Submit Week 3's Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64413?module_item_id=385230" target="_blank">Submit Week 3's Meme</a></span>
+
 
 #### **Week 4: Statistical Learning & Other Minds**
 
 ##### <u>Tuesday, September 24, 2024</u>: Can animals learn patterns?
 
--  Hauser, M. D., Newport, E. L., & Aslin, R. N. (2001). Segmentation of the speech stream in a non-human primate: Statistical learning in cotton-top tamarins. <i>Cognition, 78</i>(3), B53-B64.
--  Santolin, C., & Saffran, J. R. (2018). Constraints on statistical learning across species. <i>Trends in Cognitive Sciences, 22</i>(1), 52-63.
+-  Hauser, M. D., Newport, E. L., & Aslin, R. N. (2001). Segmentation of the speech stream in a non-human primate: Statistical learning in cotton-top tamarins. <i>Cognition, 78</i>(3), B53-B64.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64345?module_item_id=385231" target="_blank">ANNOTATE</a></span>]
+-  Santolin, C., & Saffran, J. R. (2018). Constraints on statistical learning across species. <i>Trends in Cognitive Sciences, 22</i>(1), 52-63.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64382?module_item_id=385232" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, September 26, 2024</u>: Can machines think?
 
--  Turing, A. M. (1950). Computing Machine and Intelligence. <i>MIND ,LIX</i>, 433-460.
+-  Turing, A. M. (1950). Computing Machine and Intelligence. <i>MIND ,LIX</i>, 433-460. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64395?module_item_id=385234" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, September 29, 2024, 2024</u>: Week 4 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64414?module_item_id=385235" target="_blank">Submit Week 4's Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64415?module_item_id=385236" target="_blank">Submit Week 4's Meme</a></span>
 
 #### **Week 5: Language**
 
-##### <u>Tuesday, October 1, 2024</u>: How is meaning learned?
+##### <u>Tuesday, October 1, 2024</u>: No class!
 
--  Lake, B. M., & Murphy, G. L. (2021). Word meaning in minds and machines. <i>Psychological Review.</i><strong>(27 Pages)</strong>
+##### <u>Thursday, October 3, 2024</u>: How is meaning learned?
 
-##### <u>Thursday, October 3, 2024</u>: How do machines learn language?
+-  Lake, B. M., & Murphy, G. L. (2021). Word meaning in minds and machines. <i>Psychological Review.</i><strong>(27 Pages)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64350?module_item_id=385238" target="_blank">ANNOTATE</a></span>]
 
--  Many Minds Podcast: <a href="https://manyminds.libsyn.com/what-does-chatgpt-really-know">What does ChatGPT really know?</a> <strong>(1 h 17 mins)</strong>
-
-
-- Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In <i>Proceedings of the 2021 ACM conference on fairness, accountability, and transparency </i>(pp. 610-623).
+-  Many Minds Podcast: What does ChatGPT really know? <strong>(1 h 17 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64579?module_item_id=385884" target="_blank">ANNOTATE</a></span>]
 
 #### **Week 6: Review and Reflect**
 
@@ -167,65 +184,96 @@ FALL BREAK! No class!
 -->
 ##### <u>Thursday, October 10, 2024</u>: The language of sound
 
--  Many Minds Podcast: <a href="https://manyminds.libsyn.com/website/a-hidden-world-of-sound">A hidden world of sound</a> <strong>(1 h 17 mins)</strong>
+-  Many Minds Podcast: A hidden world of sound <strong>(58 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64581?module_item_id=385888" target="_blank">ANNOTATE</a></span>]
+
 - Project Discussion
+
+##### <u>Sunday, October 13, 2024, 2024</u>: Week 6 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64357?module_item_id=385316" target="_blank">Submit Project Milestone #2 (QALMRI/SPARK)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64419?module_item_id=385250" target="_blank">Submit Week 6's Meme</a></span>
 
 #### **Week 7: Perception and Action**
 
 ##### <u>Tuesday, October 15, 2024</u>: Is perception just pattern recognition?
 
--  Clerkin, E. M., Hart, E., Rehg, J. M., Yu, C., & Smith, L. B. (2017). Real-world visual statistics and infants' first-learned object names. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 372</i>(1711), 20160055.
--  Many Minds Podcast: <a href="https://manyminds.libsyn.com/website/the-borderlands-of-perception">The borderlands of perception</a> <strong>(1 h 17 mins)</strong>
+-  Clerkin, E. M., Hart, E., Rehg, J. M., Yu, C., & Smith, L. B. (2017). Real-world visual statistics and infants' first-learned object names. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 372</i>(1711), 20160055. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64332?module_item_id=385251" target="_blank">ANNOTATE</a></span>]
+-  Many Minds Podcast: The borderlands of perception <strong>(1 h 36 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64582?module_item_id=385890" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, October 17, 2024</u>: Robots and perceptual machines
 
-- DeepMind Podcast: <a href="https://www.youtube.com/watch?v=cCUOVSE71fw" target="_blank"> Let's get physical </a><strong>(33 mins)</strong>
--  Wichmann, F. A., & Geirhos, R. (2024). Are Deep Neural Networks Adequate Behavioral Models of Human Visual Perception?. <i>Annual Review of Vision Science</i>, 9.
+- DeepMind Podcast: Let's get physical<strong>(33 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64353?module_item_id=385257" target="_blank">ANNOTATE</a></span>]
+-  Wichmann, F. A., & Geirhos, R. (2024). Are Deep Neural Networks Adequate Behavioral Models of Human Visual Perception?. <i>Annual Review of Vision Science</i>, 9. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64428?module_item_id=385259" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, October 20, 2024, 2024</u>: Week 7 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64420?module_item_id=385254" target="_blank">Submit Week 7's Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64421?module_item_id=385255" target="_blank">Submit Week 7's Meme</a></span>
 
 #### **Week 8: Emotional Learning**
 
 ##### <u>Tuesday, October 22, 2024</u>: How do we learn emotions?
 
--  Plate, R. C., Wood, A., Woodard, K., & Pollak, S. D. (2019). Probabilistic learning of emotion categories. <i>Journal of Experimental Psychology: General, 148</i>(10), 1814.
-- Ferretti, V., & Papaleo, F. (2019). Understanding others: emotion recognition in humans and other animals. <i>Genes, Brain and Behavior, 18</i>(1), e12544.
+-  Plate, R. C., Wood, A., Woodard, K., & Pollak, S. D. (2019). Probabilistic learning of emotion categories. <i>Journal of Experimental Psychology: General, 148</i>(10), 1814. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64377?module_item_id=385263" target="_blank">ANNOTATE</a></span>]
+- Ferretti, V., & Papaleo, F. (2019). Understanding others: emotion recognition in humans and other animals. <i>Genes, Brain and Behavior, 18</i>(1), e12544. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64337?module_item_id=385264" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, October 24, 2024</u>: Can machines learn emotion?
 
-- Picard, R. W. (2008). Toward machines with emotional intelligence. https://hdl.handle.net/1721.1/137903.2
+- Picard, R. W. (2008). Toward machines with emotional intelligence. https://hdl.handle.net/1721.1/137903.2 [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64376?module_item_id=385266" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, October 27, 2024, 2024</u>: Week 8 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64358?module_item_id=385277" target="_blank">Submit Project Milestone 3 (Project Plan)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64587?module_item_id=385914" target="_blank">Submit Week 8's Meme</a></span>
 
 #### **Week 9: Theory of Mind**
 
 ##### <u>Tuesday, October 29, 2024</u>: How do we infer other's mental states?
 
--  Jara-Ettinger, J., Gweon, H., Tenenbaum, J. B., & Schulz, L. E. (2015). Children’s understanding of the costs and rewards underlying rational action. <i>Cognition, 140</i>, 14-23.
-- Krupenye, C., & Call, J. (2019). Theory of mind in animals: Current and future directions. <i>Wiley Interdisciplinary Reviews: Cognitive Science, 10</i>(6), e1503. (25 pages)
+-  Jara-Ettinger, J., Gweon, H., Tenenbaum, J. B., & Schulz, L. E. (2015). Children’s understanding of the costs and rewards underlying rational action. <i>Cognition, 140</i>, 14-23.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64347?module_item_id=385269" target="_blank">ANNOTATE</a></span>]
+- Krupenye, C., & Call, J. (2019). Theory of mind in animals: Current and future directions. <i>Wiley Interdisciplinary Reviews: Cognitive Science, 10</i>(6), e1503. (25 pages)[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64349?module_item_id=385280" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, October 31, 2024</u>: Do machines have theory of mind?
 
-- Strachan, J. W., Albergo, D., Borghini, G., Pansardi, O., Scaliti, E., Gupta, S., ... & Becchio, C. (2024). Testing theory of mind in large language models and humans. Nature Human Behaviour, 1-11.
+- Strachan, J. W., Albergo, D., Borghini, G., Pansardi, O., Scaliti, E., Gupta, S., ... & Becchio, C. (2024). Testing theory of mind in large language models and humans. <i>Nature Human Behaviour</i>, 1-11.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64589?module_item_id=385916" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, November 3, 2024, 2024</u>: Week 9 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64424?module_item_id=385268" target="_blank">Submit Week 9's Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64425?module_item_id=385267" target="_blank">Submit Week 9's Meme</a></span>
 
 #### **Week 10: Consciousness and Sentience**
 
 ##### <u>Tuesday, November 5, 2024</u>: How do we test for consciousness?
-- Bayne, T., Seth, A. K., Massimini, M., Shepherd, J., Cleeremans, A., Fleming, S. M., ... & Mudrik, L. (2024). Tests for consciousness in humans and beyond. <i>Trends in Cognitive Sciences </i>.
-- Melloni, L., Mudrik, L., Pitts, M., & Koch, C. (2021). Making the hard problem of consciousness easier. <i>Science</i>, 372(6545), 911-912.
+- Bayne, T., Seth, A. K., Massimini, M., Shepherd, J., Cleeremans, A., Fleming, S. M., ... & Mudrik, L. (2024). Tests for consciousness in humans and beyond. <i>Trends in Cognitive Sciences </i>. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64590?module_item_id=385918" target="_blank">ANNOTATE</a></span>]
+- Melloni, L., Mudrik, L., Pitts, M., & Koch, C. (2021). Making the hard problem of consciousness easier. <i>Science</i>, 372(6545), 911-912. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64591?module_item_id=385919" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, November 7, 2024</u>: Are plants and machines conscious?
 
--  Lemoine, B. (2022). Is LaMDA Sentient? An Interview <strong>(21 pages)</strong>
-- Many Minds Podcast: <a href="https://manyminds.libsyn.com/website/minding-plants">Minding Plants</a> <strong>(1 h 13 mins)</strong>
+-  Lemoine, B. (2022). Is LaMDA Sentient? An Interview <strong>(21 pages)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64318?module_item_id=385286" target="_blank">ANNOTATE</a></span>]
+- Many Minds Podcast: <a href="https://manyminds.libsyn.com/website/minding-plants">Minding Plants</a> <strong>(1 h 13 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64592?module_item_id=385920" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, November 10, 2024, 2024</u>: Week 10 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64400?module_item_id=385284" target="_blank">Submit Week 10's Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64399?module_item_id=385275" target="_blank">Submit Week 10's Meme</a></span>
 
 #### **Week 11: Memories, Dreams, and Plans**
 
 ##### <u> Tuesday, November 12, 2024</u>: Mental time travel
-- Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans?. Behavioral and brain sciences, 30(3), 299-313.
-- Many Minds Podcast: <a href="https://manyminds.libsyn.com/website/traversing-the-fourth-dimension">Traversing the fourth dimension</a> <strong>(1 h 13 mins)</strong>
+- Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans?. Behavioral and brain sciences, 30(3), 299-313. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64593?module_item_id=385924" target="_blank">ANNOTATE</a></span>]
+- Many Minds Podcast: Traversing the fourth dimension <strong>(1 h 13 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64594?module_item_id=385925" target="_blank">ANNOTATE</a></span>]
 
 ##### <u> Thursday, November 14, 2024</u>: Dreams and memory consolidation
 
-- Many Minds Podcast: <a href="https://manyminds.libsyn.com/website/from-the-archive-why-do-we-dream">Why do we dream?</a> <strong>(48 mins)</strong>
+- Many Minds Podcast: Why do we dream? <strong>(48 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64595?module_item_id=385926" target="_blank">ANNOTATE</a></span>]
 
-- DeepMind Podcast: <a href="https://youtu.be/ExrXs7PCQpU?feature=shared" target="_blank">AI & Neuroscience: The virtuous circle</a><strong>(34 mins)</strong>
+- DeepMind Podcast: AI & Neuroscience: The virtuous circle<strong>(34 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64596?module_item_id=385927" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, November 17, 2024, 2024</u>: Week 11 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64359?module_item_id=385318" target="_blank">Submit Project Milestone 4 (First Draft)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64401?module_item_id=385283" target="_blank">Submit Week 11's Meme</a></span>
 
 #### **Week 12: Project Discussion**
 
@@ -239,22 +287,33 @@ FALL BREAK! No class!
 
 ##### <u> Tuesday, December 3, 2024</u>: What is culture?
 
--  Legare, C. H. (2019). The development of cumulative cultural learning. Annual Review of Developmental Psychology, 1(1), 119-147.
-- Many Minds Podcast: <a href="https://manyminds.libsyn.com/website/culture-innovation-and-the-collective-brain">Culture, Innovation, and the Collective Brain</a> <strong>(1 h 13 mins)</strong>
+-  Legare, C. H. (2019). The development of cumulative cultural learning. Annual Review of Developmental Psychology, 1(1), 119-147. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64598?module_item_id=385932" target="_blank">ANNOTATE</a></span>]
+- Many Minds Podcast: Culture, Innovation, and the Collective Brain <strong>(1 h 29 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64599?module_item_id=385933" target="_blank">ANNOTATE</a></span>]
 
 ##### <u> Thursday, December 5, 2024</u>: Can machines be social?
--  Whiten, A., Biro, D., Bredeche, N., Garland, E. C., & Kirby, S. (2022). The emergence of collective knowledge and cumulative culture in animals, humans and machines. <i>Philosophical Transactions of the Royal Society B, 377</i>(1843), 20200306.
-- DeepMind Podcast: <a href="https://www.youtube.com/watch?v=j9IOXa-iXKY" target="_blank">Better together</a><strong>(34 mins)</strong>
+-  Whiten, A., Biro, D., Bredeche, N., Garland, E. C., & Kirby, S. (2022). The emergence of collective knowledge and cumulative culture in animals, humans and machines. <i>Philosophical Transactions of the Royal Society B, 377</i>(1843), 20200306. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64427?module_item_id=385299" target="_blank">ANNOTATE</a></span>]
+- DeepMind Podcast: Better together <strong>(34 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64322?module_item_id=385302" target="_blank">ANNOTATE</a></span>]
+
+##### <u>Sunday, December 8, 2024, 2024</u>: Week 14 Assignments
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64406?module_item_id=385305" target="_blank">Submit Week 14's Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64407?module_item_id=385304" target="_blank">Submit Week 14's Meme</a></span>
 
 #### **Week 15: Human Uniqueness**
 
 ##### <u>Tuesday, December 10, 2024</u>: The path forward
 
-- Laland, K., & Seed, A. (2021). Understanding human cognitive uniqueness. <i>Annual Review of Psychology</i>, 72, 689-716.
+- Laland, K., & Seed, A. (2021). Understanding human cognitive uniqueness. <i>Annual Review of Psychology</i>, 72, 689-716.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64351?module_item_id=385307" target="_blank">ANNOTATE</a></span>]
 
 ##### <u>Thursday, December 12, 2024</u>: 
 
+- Project presentations! [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64338?module_item_id=385311" target="_blank">Submit your slide(s) here!</a></span>]
 - It's a wrap!
+
+
+#### **Week 16: Final Project Submission**
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64360?module_item_id=385313" target="_blank">Submit Project Milestone #5 (Final Submission)</a></span>
 
 ## Grading
 
@@ -362,17 +421,24 @@ Below are some general resources for leading effective discussions:
 
 ### Final Project (40 points)
 
-You will also work on a final project for this class. You have **two** different options for your final project, these are briefly described below. More details about final projects are available at the links below and will also be discussed in class. 
+You will also work on a final project for this class. This project is intended to help you (1) engage with empirical research on intelligence and (2) creatively communicate the material to a broader audience. 
 
-#### Project options
+This project will give you the opportunity to showcase your knowledge of the study of intelligence by applying what you know to a topic that interests you. This project is intentionally open-ended in order to accommodate the broad range of interests, skills, and abilities represented in this class. As long as
+your project achieves the two objectives listed above, then you are on the right track!
 
-- **Minute Intelligence**: For this project, you will create a 5-7 minute video on any aspect of intelligence that we did not cover but interests you. Your video should introduce the topic, examine its relevance to real life, and then describe the research that has been conducted on the topic so far in an engaging and educational manner. Details about different milestones for this project are available [here](https://docs.google.com/document/d/1kEjiv6D97MLqFTErqdMCcTIOye72nMRo/edit?usp=sharing&ouid=114230382498081849934&rtpof=true&sd=true).
+Your project may take on different forms and we will collaboratively work towards some acceptable formats in class (e.g., short story, video, podcast, etc.). 
 
-- **Intelligence Review**:For this project, you will write a 10-page APA-style review paper on a specific aspect of intelligence that we have NOT covered in class. Your paper should introduce the topic, address the broad and specific questions on the topic, and then describe the research conducted on the topic through a coherent narrative. Details about different milestones for this project are available [here](https://docs.google.com/document/d/1iu17sQ5fufljmAg6qJNS-IXVSWBNzDDxTIj6L2UbBSA/edit?usp=sharing).
+<!-- You have **two** different options for your final project, these are briefly described below. More details about final projects are available at the links below and will also be discussed in class.  -->
+
+<!-- #### Project options -->
+
+<!-- - **Minute Intelligence**: For this project, you will create a 5-7 minute video on any aspect of intelligence that we did not cover but interests you. Your video should introduce the topic, examine its relevance to real life, and then describe the research that has been conducted on the topic so far in an engaging and educational manner. Details about different milestones for this project are available [here](https://docs.google.com/document/d/1kEjiv6D97MLqFTErqdMCcTIOye72nMRo/edit?usp=sharing&ouid=114230382498081849934&rtpof=true&sd=true). -->
+
+<!-- - **Intelligence Review**:For this project, you will write a 10-page APA-style review paper on a specific aspect of intelligence that we have NOT covered in class. Your paper should introduce the topic, address the broad and specific questions on the topic, and then describe the research conducted on the topic through a coherent narrative. Details about different milestones for this project are available [here](https://docs.google.com/document/d/1iu17sQ5fufljmAg6qJNS-IXVSWBNzDDxTIj6L2UbBSA/edit?usp=sharing). -->
 
 #### Milestones 
 
-There will be several formative low-stakes milestones during the semester to ensure you are making steady progress towards the final project. Due dates for these milestones are available on Canvas. The breakdown of how the milestones contribute to your final project grade is below:
+Regardless of what final form your project takes, there will be several formative low-stakes milestones during the semester to ensure you are making steady progress towards the final project. The breakdown of how the milestones contribute to your final project grade is below:
 
 | Milestone | Points       |
 |:-------------|:------------|
