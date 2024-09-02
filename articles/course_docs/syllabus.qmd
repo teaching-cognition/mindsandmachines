@@ -103,6 +103,7 @@ knitr::kable(Lectures)
 ##### <u>Tuesday, September 3, 2024</u>: Meet and greet! 
 
 - Read the [syllabus](#syllabus)
+- Complete <a href="https://bowdoin.instructure.com/courses/6260/assignments/64378?module_item_id=385202" target="_blank">the pre-class survey</a>!
 
 ##### <u>Thursday, September 5, 2024</u>: Cautionary tales
 
