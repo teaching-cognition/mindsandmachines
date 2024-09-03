@@ -104,6 +104,7 @@ knitr::kable(Lectures)
 
 - Read the [syllabus](#syllabus)
 - Complete <a href="https://bowdoin.instructure.com/courses/6260/assignments/64378?module_item_id=385202" target="_blank">the pre-class survey</a>!
+- [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64394?module_item_id=385210" target="_blank">ANNOTATE the syllabus</a></span>]
 
 ##### <u>Thursday, September 5, 2024</u>: Cautionary tales
 
