@@ -105,11 +105,13 @@ knitr::kable(Lectures)
 - Read the [syllabus](#syllabus)
 - Complete <a href="https://bowdoin.instructure.com/courses/6260/assignments/64378?module_item_id=385202" target="_blank">the pre-class survey</a>!
 - [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64394?module_item_id=385210" target="_blank">ANNOTATE the syllabus</a></span>]
+- <a href="../../slides/Week1_getting_started.pdf" target="_blank">Slides</a>
 
 ##### <u>Thursday, September 5, 2024</u>: Cautionary tales
 
 -  Yakushko, O. (2019). Eugenics and its evolution in the history of western psychology: A critical archival review. <i>Psychotherapy and Politics International, 17</i>(2), e1495. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64429?module_item_id=385214" target="_blank">ANNOTATE</a></span>]
 - Bian, L., Leslie, S. J., & Cimpian, A. (2017). Gender stereotypes about intellectual ability emerge early and influence children’s interests. <i>Science, 355</i>(6323), 389-391.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64323?module_item_id=385217" target="_blank">ANNOTATE</a></span>]
+- <a href="../../slides/Week1_cautionary_tales.pdf" target="_blank">Slides</a>
 
 ##### <u>Sunday, September 8, 2024, 2024</u>: Week 1 Assignments
 
@@ -403,6 +405,8 @@ Attendance will be taken for each class and you will get full credit if you atte
 ### Leading discussions (20 points)
 
 You will lead three discussions in this course: a solo discussion as well as two group discussions with one or two classmates. For all discussions, you are encouraged to get in touch with me **a week BEFORE you are leading discussion** to discuss your general plan for the discussion. 
+
+The <a href="https://docs.google.com/spreadsheets/d/1ZllA3hikv5MU2IaR0zGRFla2PT1s4zBduCSAu_H4y9I/edit?usp=sharing" target="_blank">SCHEDULE</a> for discussions this semester is available here! 
 
 Please review <a href="https://docs.google.com/document/d/1teR0pMFtxHvXsLYw-wEcxyRhfmRWIHXmftL8RMdhjW8/edit?usp=sharing" target="_blank">these guidelines</a> BEFORE our meeting so that you are best prepared with ideas and questions.
 
