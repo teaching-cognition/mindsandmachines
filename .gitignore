@@ -1,6 +1,19 @@
+# Ignore R specific files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
+# macOS specific file
+.DS_Store
+
+# Quarto related files
 /.quarto/
+
+# Ignore all log and temp files globally
+*.log
+*.tmp
+
+# Ignore any .vscode and node_modules directories globally
+**/.vscode/
+**/node_modules/
