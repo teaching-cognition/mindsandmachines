@@ -127,6 +127,7 @@ knitr::kable(Lectures)
 ##### <u>Thursday, September 12, 2024</u>: Cognition and intelligence
 
 -  Griffiths, T. L. (2020). Understanding human intelligence through human limitations. <i> Trends in Cognitive Sciences</i>, 24(11), 873-883.[<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64342?module_item_id=385218" target="_blank">ANNOTATE</a></span>]
+- <a href="../../slides/Week2_foundations.pdf" target="_blank">Slides</a>
 
 ##### <u>Sunday, September 15, 2024, 2024</u>: Week 2 Assignments
 
