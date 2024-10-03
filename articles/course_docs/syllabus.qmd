@@ -182,7 +182,7 @@ knitr::kable(Lectures)
 
 -  Many Minds Podcast: What does ChatGPT really know? <strong>(1 h 17 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64579?module_item_id=385884" target="_blank">ANNOTATE</a></span>]
 
-- <a href="../../slides/Week5_Language.pdf" target="_blank">Slides</a>
+- <a href="../../slides/Week5_language_models.pdf" target="_blank">Slides</a>
 
 #### **Week 6: Review and Reflect**
 
