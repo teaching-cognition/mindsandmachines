@@ -193,9 +193,11 @@ FALL BREAK! No class!
 <!--
 - Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2021). Data and its (dis) contents: A survey of dataset development and use in machine learning research. <i>Patterns, 2</i>(11).
 -->
-##### <u>Thursday, October 10, 2024</u>: The language of sound
+##### <u>Thursday, October 10, 2024</u>: Language models revisited
 
--  Many Minds Podcast: A hidden world of sound <strong>(58 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64581?module_item_id=385888" target="_blank">ANNOTATE</a></span>]
+- Review the materials from Week 5
+- [Post on the reflection board](https://bowdoin.instructure.com/courses/6260/discussion_topics/27017)
+- OPTIONAL (VERY COOL but not required!): Many Minds Podcast: [A hidden world of sound](https://manyminds.libsyn.com/a-hidden-world-of-sound) <strong>(58 mins)</strong>
 
 - Project Discussion
 
