@@ -410,9 +410,9 @@ Overall, here is a breakdown of how class participation will be assessed:
 
 | Component        | Points |    
 |:------------------|-------:|
-| In-class participation and/or attending office hours |     2.5 |
+| In-class participation and/or attending office hours |     4.5 |
 | Peer review for project draft |     5 |
-| Attendance (attending 90% of classes)     |      2.5 |
+| Attendance (attending 90% of classes)     |      0.5 |
 |                   |     10   |    
 
 In-class participation will be assessed based on how engaged you are in or outside class - I will be looking for engagement via participating in in-class activities, asking questions, volunteering answers, etc. on an *overall* basis. 
