@@ -210,7 +210,10 @@ FALL BREAK! No class!
 
 ##### <u>Tuesday, October 15, 2024</u>: Professor Eric Chown visits!!
 
-Readings TBD
+- Matheson, H. E., & Barsalou, L. W. (2018). Embodiment andgrounding in cognitive neuroscience.
+<i>Stevens’ Handbook of Experimental Psychology and Cognitive Neuroscience</i>, *3*
+, 1-27. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/69816?module_item_id=408867" target="_blank">ANNOTATE</a></span>]
+- Chown, E., & Yeap, W. K. (2015). Cognitive robotics. In *Multi-disciplinary Trends in Artificial Intelligence: 9th International Workshop, MIWAI 2015*, Fuzhou, China, November 13-15, 2015, Proceedings 9 (pp. 294-305). *Springer International Publishing*. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/69812?module_item_id=408853" target="_blank">ANNOTATE</a></span>]
 <!--
 -  Clerkin, E. M., Hart, E., Rehg, J. M., Yu, C., & Smith, L. B. (2017). Real-world visual statistics and infants' first-learned object names. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 372</i>(1711), 20160055. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64332?module_item_id=385251" target="_blank">ANNOTATE</a></span>]
 -  Many Minds Podcast: The borderlands of perception <strong>(1 h 36 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64582?module_item_id=385890" target="_blank">ANNOTATE</a></span>]
