@@ -200,6 +200,7 @@ FALL BREAK! No class!
 - OPTIONAL (VERY COOL but not required!): Many Minds Podcast: [A hidden world of sound](https://manyminds.libsyn.com/a-hidden-world-of-sound) <strong>(58 mins)</strong>
 
 - Project Discussion
+- <a href="../../slides/Week6_review.pdf" target="_blank">Slides</a>
 
 ##### <u>Sunday, October 13, 2024, 2024</u>: Week 6 Assignments
 
@@ -224,6 +225,7 @@ FALL BREAK! No class!
 
 - DeepMind Podcast: Let's get physical<strong>(33 mins)</strong> [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64353?module_item_id=385257" target="_blank">ANNOTATE</a></span>]
 -  Wichmann, F. A., & Geirhos, R. (2024). Are Deep Neural Networks Adequate Behavioral Models of Human Visual Perception?. <i>Annual Review of Vision Science</i>, 9. [<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6260/assignments/64428?module_item_id=385259" target="_blank">ANNOTATE</a></span>]
+- <a href="../../slides/Week7_perception.pdf" target="_blank">Slides</a>
 
 ##### <u>Sunday, October 20, 2024, 2024</u>: Week 7 Assignments
 
